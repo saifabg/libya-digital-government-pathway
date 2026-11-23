@@ -1,0 +1,11 @@
+Evidence ID: SAU_S09
+Service: Vehicle registration renewal
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi3Q0NHT2M3A183N2DjAwCnR0Njc0dnQwtDE31C7IdFQFs-AMP/?page=absher.userguide.service.contents&pswid=Z7_11D8H2G0L8KRD0QCP61THH3871&urile=wcm%3Apath%3A%2Fcontents%2Findividuals%2Feservices+user+guide%2Feservices%2Ftraffic-services%2Ftraffic_service2
+- https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi3Q0NHT2M3A183N2DjAwCnR0Njc0dnQwtDE31C7IdFQFs-AMP/?page=absher.userguide.service.contents&pswid=Z7_11D8H2G0L8KRD0QCP61THH3871&urile=wcm%3Apath%3A%2Fcontents%2Findividuals%2Feservices+user+guide%2Feservices%2Ftraffic-services%2Ftraffic_service123
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[Renew Vehicle Registration - Card] This service enables beneficiaries to renew their vehicle registration (istimara renewal) electronically with ease and convenience, anytime and from anywhere, through simple steps via Absher Platform, eliminating the need to visit General Traffic Department offices. / • Valid insurance policy for the vehicle. / • Valid Vehicle's Periodic Inspection. / • Payment of renewal fees and delay fine, if any. / • Payment of traffic violations. / • Validity of vehicles registration must be less than 180 days. / Beneficiaries / Citizens and residents who are registered and activated in Absher platform. / Service Language / Arabic / English / Geographical Location / You can contact the nearest Traffic Department office during working hours from 8 AM to 2 PM or reach them via the number (911). / Service channels / Absher Platform and Application / Service Cost / 100 SR per year / Duration / Immediate
+[Print Vehicle Registration - Card] This service allows the beneficiary to print the Vehicle Registration electronically and request its delivery via mail. / • An active National Address must be available / Service Cost / 57.5 Riyals / Duration / 24/7

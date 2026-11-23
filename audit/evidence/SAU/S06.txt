@@ -1,0 +1,12 @@
+Evidence ID: SAU_S06
+Service: Commercial or business activity licence
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://momah.gov.sa/en/e-services/issuing-commercial-license
+- https://momah.gov.sa/en/e-services/issuing-fast-track-commercial
+- https://balady.gov.sa (connection refused 2026-11-22)
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[MoMAH: Issuing a Commercial License] "An electronic service provided on the Balady platform." ... Steps: "Enter the establishment record and specify the activity and area." / select the location and fill the details of the shop or mobile cart / pay the fees if the activity qualifies for an instant license, or submit the request to the municipality for non-instant activities. / Required attachments: "Exterior Photo of the Shop - Clearly showing the shop's signboard." ... lease agreement, ownership deed, or investment contract issued by the municipality or other government entities ... "A copy of the building permit." / "No documents are required for this service" / Time Required "10-1 days" / Service Fees: Service cost (fee calculator) / Payment methods: Mada, Mastercard, Sadad / "Submit electronically only through Balady portal, Mobile" / Phone 199040
+[MoMAH: Issuing a Fast-Track Commercial License] ...the fast track aims to provide a exceptional experience in the stage of issuing licenses through partnership with engineering offices designated / 3) identify the engineering office and send the application / 4) Payment of fees after approval of the application / Time Required / 1 - 10 Days / Service Languages / Arabic / Phone / 199040

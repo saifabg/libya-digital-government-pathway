@@ -1,0 +1,7 @@
+SAU S03 Saudi passport renewal - Saudi Arabia
+Accessed 2026-11-23
+Source 1: Absher e-services guide, Passports: https://www.absher.sa/wps/wcm/connect/individuals/contents/individuals+AR/eServices+User+Guide/eServices/Passport-Services/
+Extract: "تجديد جواز السفر السعودي: تتيح هذه الخدمة للمواطنين تجديد جواز السفر السعودي إلكترونيًا بكل سهولة ويسر، دون الحاجة لزيارة مكاتب الجوازات، عبر خطوات بسيطة وسريعة بعد تقديم الطلب واستكمال الإجراءات عن طريق منصة أبشر."
+Source 2: Absher FAQs https://www.absher.sa/wps/wcm/connect/individuals/contents/individuals+AR/FAQs_AR (via WebFetch): delivery after renewal - "إحضار نموذج إشعار التجديد للجواز من حسابك في منصة أبشر والجواز القديم وتسليمه لموظف البريد" after confirming registered national address and paying delivery fee; the renewed passport is sent to the national address. Fees paid "من خلال الحساب البنكي". Login: "الدخول إلى منصة أبشر باستخدام هويتك الرقمية (حسابك في أبشر)". Account activation via bank account, self-service kiosks or passport/civil affairs staff.
+Source 3: Absher "Registration and Subscription" page (see SAU_S02): activation channels incl. Nafath app; "digital ID on Absher".
+Source 4: National portal my.gov.sa https://my.gov.sa/ar/services/112090 ("تجديد جواز السفر السعودي") - blocked (Cloudflare 403); search index shows it describes the MOI service completed "عن طريق منصة أبشر" with steps incl. choosing delivery address/method and paying fees.

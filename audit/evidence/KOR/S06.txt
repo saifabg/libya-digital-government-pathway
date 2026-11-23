@@ -1,0 +1,14 @@
+Evidence ID: KOR_S06
+Service: Business registration with the tax office (사업자등록 신청), coded as the general business-activity registration
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000072 (Government24 guide; last changed 2025-10-29)
+- https://www.gov.kr/portal/service/serviceInfo/PTR000050466 (Government24 page for the Hometax online application; 최종수정일 2026.11.10)
+- https://www.nts.go.kr/english/main.do (NTS English: link "Simplified Business Operator Registration & Filing Value Added Tax" to Hometax in English, lang=en)
+
+Excerpt:
+"신청방법 인터넷 , 방문 ... 기본 | 총2일 ... 수수료 수수료 없음 ... 온라인신청 https://www.hometax.go.kr/"
+"민원인이 제출해야하는 서류 사업허가·등록·신고필증 사본(법령에 의하여 허가·등록·신고를 하여야 하는 사업인 경우) 임대차계약서 사본 ... 민원인이 제출하지 않아도 되는 서류 (담당공무원이 확인) ... 임대사업자등록증"
+"○ 세무대리인은 "수임 계약서"(...)를 제출하여야 신청이 가능합니다." "○ 공동사업자(대표) 신청인 경우는 해당 구성원 전원의 전자서명(공동인증서)이 완료된 이후에 접수(전송)이 가능합니다." "○ [신청·제출]-[민원신청 처리결과 조회] 화면에서 신청 결과를 확인하고 사업자등록증을 인쇄할 수 있습니다." "공동사업자가 10인 이상인 경우에는 세무서에 방문하여 신청하시기 바랍니다."
+[Gloss: apply online (Hometax) or at the tax office; 2 days; free; copies of sector permits and the lease contract required, some records checked by officials; tax agents may apply on behalf; certificate e-signature; check the result and print the registration certificate online.]
+Note: sector-specific licences (영업신고 etc.) differ by activity and were not coded.

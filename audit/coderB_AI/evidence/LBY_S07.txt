@@ -1,0 +1,10 @@
+LBY S07 Corporate income tax filing and payment - Libya
+Accessed 2026-11-22
+Source 1: https://ejraat.gov.ly/procedure/27?l=ar (Libya Portal for Administrative Procedures; rendered in browser)
+Extract: دفع ضريبة الدخل على الشركات
+خطوات (7): تجهيز الإقرار الضريبي: 1 تقديم الملف الضريبي; 2 دفع ضريبة الدمغة على ميزانية الشركة; 3 شراء طابع نموذج الاقرار الضريبي; القيام بالسداد الضريبي: 4 تقديم الإقرار الضريبي; 5 الحصول على جدولة الربط الضريبي (المبدئي); 6 طلب دفع الضريبة المستحقة; 7 الحصول على إيصال سداد الضريبة - all steps at "إدار ضرائب طرابلس".
+الوثائق المطلوبة: نموذج اقرار الضريبة على دخل الشركات (نموذج رقم 9); الميزانية العمومية للشركة; تقرير المحاسب والمراجع القانوني (مصدق); وصل سداد ضريبة الدمغة على الميزانية; نموذج جدولة الربط الضريبي; ايصال أستلام مستندات الاقرار الضريبي.
+الكلفة: LYD 110.5 + income tax 0-20% + jihad tax 0-4% of profits. Total time 1.5-3 hours incl. queue 35-70 min.
+
+Source 2: https://tax.gov.ly/ (Tax Authority). Menu: خدمات الممولين; استفسار عن ايصال; استفسار عن شهادة سداد ضريبي; نماذج وإقرارات ضريبية (Law3.aspx: downloadable نموذج رقم 01, 2, 3, 4, 5, 9, 16, 18, 22); دليل الإجراءات. Text: "بوابة الضرائب الإلكترونية هي عبارة عن منصة رقمية متكاملة لإدارة المعاملات الضريبية..." (description only, "قراءة المزيد" link is "#"; no e-filing or e-payment entry point found). Login.aspx = "الدخول للوحة التحكم" (name/password, no description of taxpayer use).
+Note: homepage footer contains many injected third-party spam/gambling links (site appears compromised).

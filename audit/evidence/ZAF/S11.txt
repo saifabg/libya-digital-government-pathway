@@ -1,0 +1,15 @@
+Evidence ID: ZAF_S11
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://services.sassa.gov.za/portal/r/sassa/sassa/home
+https://services.sassa.gov.za/portal/r/sassa/files/static/v61/ONLINE%20GRANT%20APPLICATION%20POSTER1.jpg
+https://www.gov.za/services/child-care-social-benefits/child-support-grant
+https://www.sassa.gov.za (connection failed 2026-11-22)
+
+Excerpt (verbatim, official sources):
+Coded on Child Support Grant.
+[SASSA Services Portal] "Register here to create a personal profile. This will enable you to access the SASSA services." Toll free "0800 60 1011".
+[Poster 'Online grant application'] "You can connect to the SASSA services website on any internet capable device." "A One-Time-Pin (OTP) will be sent to your mobile device to confirm registration." "click on 'Apply for a Grant'". "upload the supporting documents". "Some supporting documents must be certified before uploading". "click the SUBMIT DOCUMENTS button! You will now receive a SMS and email confirmation of your submission with an important reference number".
+[gov.za Child support grant, published 2014] "Go to the ... (SASSA) office ... your 13 digit-bar-coded identity document (ID) and the child's birth certificate." "It may take up to three months to process your application." "The service is free." (links to services.sassa.gov.za)

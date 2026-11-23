@@ -1,0 +1,13 @@
+Evidence ID: LBY_S01
+Service: Birth registration / birth certificate
+Access date: 2026-11-22
+URLs:
+- https://www.cra.gov.ly (Civil Registry Authority, redirect from https://cra.gov.ly)
+- https://ejraat.gov.ly/procedures?l=ar and ?l=en (national procedures guide; no birth-registration procedure listed)
+- https://ejraat.gov.ly/api/procedure/<1..100>/breadcrumb?l=ar (all published procedure ids checked; none concerns birth registration or civil status)
+- https://nid.gov.ly (National Number project)
+Verbatim excerpts:
+[cra.gov.ly, full page text] "Coming Soon 1 35 Days 17 Hours 50 Minutes 39 Seconds Our website is Coming Soon , follow us for update now!" (only outbound link: https://www.facebook.com/LibyaCra/)
+[nid.gov.ly] "يمكنك الاستعلام عن طريق الرسائل القصيرة ... في حالة تعذر الحصول على الرقم الوطني فنأمل مراجعة فروع الاحوال المدنية بالمناطق لتصحيح او استكمال البيانات"
+[ejraat procedure 48, required documents] "شهادة ميلاد الكترونية" (birth certificate appears only as a required document of other procedures; no procedure for obtaining it)
+Observation: no official page describing how to register a birth or obtain a birth certificate was found. Press/how-to sites (not evidence) describe in-person issue at civil registry offices. The Libyan embassy in Canada describes registration of births abroad (consular service, not coded).

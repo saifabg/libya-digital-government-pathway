@@ -1,0 +1,21 @@
+Evidence ID: KOR_S01
+Service: Birth registration (출생신고)
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12700000045 (Government24 service guide; last changed 2024-07-11)
+- https://efamily.scourt.go.kr/cs/CsBltnWrtGuide.do (Supreme Court e-Family Registration System, internet filing guide, tab 출생신고)
+- https://efamily.scourt.go.kr/index.jsp (home: menu 인터넷 신고 > 출생, 처리내역 확인)
+
+Excerpt (Government24):
+"신청방법 인터넷 , 방문 , 우편 ... 처리기간 지체없이(사건 및 가용인력 범위내) ... 수수료 수수료 없음"
+"※ 인터넷(전자)신고는 대법원 전자가족관계등록시스템(http://efamily.scourt.go.kr)에서 하실 수 있습니다."
+"제출 서류 ... 출생증명서 또는 출생사실을 증명하는 서면 ... 신분확인(... 우편제출의 경우에는 신고인의 신분증명서 사본) 부.모의 혼인관계증명서(가족관계등록관서에서 행정정보공동이용이 가능한 경우에는 제출 생략)"
+[Gloss: apply via internet, visit or post; processed without delay; no fee; e-filing on the Supreme Court system; hospital birth certificate required; parents' marriage certificate omitted when retrievable through shared administrative data; ID copy for postal filing.]
+
+Excerpt (efamily guide, 출생신고 tab):
+"인터넷 출생 신고 절차 1.신고서 작성 2.출생증명서 이미지파일 첨부 3.신고서 작성완료 확인 4. 신고서 수정/제출 5. 신고서 제출 6.출생신고사건 관서 접수 및 처리 / PC / 모바일"
+"출생증명서 이미지파일은 반드시 등록하셔야 하며, PC 또는 모바일로 등록할 수 있습니다."
+"내국인인 경우 입력정보와 가족관계등록부에 기록된 사항이 상이할 경우 신고가 불가능"
+"신고서 제출시 인증서를 통한 전자서명이 필요합니다."
+[Gloss: online birth report steps, PC or mobile; birth-certificate image upload; entries checked against the family register; submission requires certificate-based e-signature. Home menu shows 처리내역 확인 = check processing record.]
+Coder note: C1=3 because the report is filed and processed entirely online and the resulting certificates can be issued online (see KOR_S04).

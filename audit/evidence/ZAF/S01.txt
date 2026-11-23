@@ -1,0 +1,16 @@
+Evidence ID: ZAF_S01
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.dha.gov.za/index.php/civic-services/birth-certificates
+https://www.gov.za/services/services-residents/birth/register-birth
+https://www.dha.gov.za/index.php/ask-us
+https://www.dha.gov.za/index.php/civic-services/dha-stationed-at-hospitals
+
+Excerpt (verbatim, official sources):
+[DHA, Birth Certificates & Registration] "Births must be registered within 30 days ... The parent(s), next of kin, or legal guardian of the child must visit the nearest Home Affairs office or the nearest South African embassy or consulate if the client is abroad. Proof of birth from the health facility where the birth occurred (Form DHA 24/PB - a Home Affairs form provided at a health facility). ... Once the child's birth has been registered, a birth certificate with full details of the child and parent(s) is issued free of charge." Late registration: "ID/Passport of parent(s)."
+[gov.za, Register birth] "The birth can be registered by a parent, guardian or any other person legally responsible for the child at an office of the Department of Home Affairs. ... Find out more about how to register a birth, or contact the Department of Home Affairs." (links to dha.gov.za)
+[DHA Ask us] "What is the waiting period for unabridged birth certificate? It can take between three to eight weeks"
+[DHA] Page "DHA Available at Hospitals" lists hospitals/clinics with DHA offices.
+No online application for birth registration found on dha.gov.za, eHomeAffairs (ID and passport only) or myhomeaffairsonline.dha.gov.za.

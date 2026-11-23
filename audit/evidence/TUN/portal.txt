@@ -1,0 +1,10 @@
+Evidence ID: TUN_portal
+Portal: https://khadamet.gov.tn (French mirror https://services.gov.tn)
+Access date: 2026-11-22
+Excerpts (verbatim):
+[home] "البوابة الوطنية للخدمات الإدارية ... تهدف البوابة الوطنية للخدمات الإدارية إلى تمكين التونسيين من التمتع بالخدمات الإدارية من خلال نافذة رقمية موحدة ومؤمنة وذلك عبر استعمال الهُوِيَّة الرقمية على الجوال."
+Counters in HTML: data-value="165490" "منتفع"; data-value="300" "+ خدمة متاحة". Search box: "ابحث عن خدمة". Login link to tuntrust.mobile-id.tn/tunid/oauth2/authorize. Contact: "يُرجى التواصل معنا عبر البريد الألكتروني : contact.khadamet@tunisia.gov.tn". Languages offered: العربية / Français only.
+[About page] "مساحة تفاعلية لمشاركة تعليقاتكم واقتراحاتكم ... الأمان والسرية : حماية البيانات الشخصية."
+[launch news, 2025-05-15] "تعلن رئاسة الحكومة ووزارة تكنولوجيات الإتصال عن إطلاق البوابة الوطنية للخدمات الإدارية"
+No privacy-policy page, accessibility statement or open-data link found on the portal.
+Wayback Machine: khadamet.gov.tn earliest capture 20250704123946 (the portal is new). Predecessor portal www.tunisie.gov.tn: earliest capture 20080324235134. The capture http://web.archive.org/web/20211201034908/http://www.tunisie.gov.tn/ lists "الخدمات عبر الإنترنت ... جميع الخدمات (559)" (categories such as خدمات إدارية (96), خدمات النقل (62), صناعة (55)).

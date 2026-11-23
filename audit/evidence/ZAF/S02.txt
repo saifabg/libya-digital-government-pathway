@@ -1,0 +1,16 @@
+Evidence ID: ZAF_S02
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://ehome.dha.gov.za/ehomeaffairsv3
+https://www.dha.gov.za/index.php/id-smart-card/banks-digital
+https://www.dha.gov.za/index.php/civic-services/identity-documents
+https://www.dha.gov.za/index.php/statements-speeches/2112-bank-branches-750
+https://www.gov.za/services/services-residents/citizenship/personal-identification/apply-for-identity-document
+
+Excerpt (verbatim, official sources):
+[eHomeAffairs] "eHomeAffairs allows the following: Submit ID and Passport applications online, Make online payments for applications, Make bookings where allowed. Note: (A branch visit is mandatory to capture and/or verify your biometric details, i.e. photo, fingerprints and signature)." Logon: "username (ID Number) and password ... A one-time-pin (OTP) will be sent to your cellphone".
+[DHA Banks - Digital] "customers do not need to log onto eHomeAffairs to make bookings or payments. Instead, the service is provided directly through participating banks. ... What do I need to bring when applying? You do not need to bring any documents. How much does it cost? The Department of Home Affairs charges R140 for a Smart ID card. ... Collections will be done at the bank branch where the application was made." "First-time ID applications must be done at a Home Affairs office."
+[DHA Identity documents] First-time applicant: "A certified copy of a birth certificate ... No payment is required"; "The fee for the re-issue is R140.00". "The Department uses the cellphone number ... to send you updates about progress".
+[DHA statement 11 Nov 2026] "Citizens can simply walk into a participating branch of ABSA, Capitec, First National Bank or Standard Bank".

@@ -1,0 +1,11 @@
+Evidence ID: ZAF_S09
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.gov.za/services/register-motor-vehicle/renew-motor-vehicle-licence
+https://online.natis.gov.za (connection timed out in curl; Chrome error page, 2026-11-22)
+
+Excerpt (verbatim, official sources):
+[gov.za Renew motor vehicle licence] "You must renew your motor vehicle licence at your relevant registering authority or at a selected post office near you." "Motorists can renew and pay for vehicle license discs through the ... (NaTIS) online platform. ... Motorists are required to register a profile ... The new disc will be couriered to your address." "Log into the NaTIS platform; Select 'View Motor Renewals'; Choose the licence disc/car; Capture card details of the respective bank and pay". In person: "your identity document; proof of residential address e.g. utility account". "The application is processed on the same day. ... Contact your local licencing office for the cost."
+online.natis.gov.za not observed (TCP timeout to port 443).

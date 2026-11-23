@@ -1,0 +1,11 @@
+Evidence ID: TUN_S09
+Service: Vehicle registration renewal
+Access date: 2026-11-22
+URLs:
+- https://khadamet.gov.tn/عربة/ (life event "أقود عربة")
+- https://taxe-circulation.finances.gov.tn/ (live: connection timed out; the archived copy of 2026-01-30 is a JavaScript shell with Cloudflare Turnstile and no readable content)
+Excerpts (verbatim):
+[khadamet] "الحجز المسبق عن بعد لاجراء الفحص الفني للعربات: تتيح هذه الخدمة لأصحاب العربات حجز موعد لإجراء الفحص الفني الدوري"
+[khadamet] "طلب شهادة الوضعية الإدارية لعربة ... مكان إيداع الملف: على الخط ... خدمة فورية"
+[khadamet] "إحالة ملكية عربة ... مكان إيداع الملف: الإدارات الجهوية للوكالة الفنية للنقل البري"
+Notes: Tunisian registration certificates do not expire; the periodic obligation is the annual circulation tax (vignette). Press reports online vignette payment since January 2026 at taxe-circulation.finances.gov.tn, but no readable official page was reached, so the row is unscored.

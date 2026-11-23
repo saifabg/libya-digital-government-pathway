@@ -1,0 +1,15 @@
+Evidence ID: KOR_S07
+Service: Global income tax filing and payment (종합소득세 신고·납부)
+Access date: 2026-11-22
+URLs:
+- https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=238910&mi=40296 (NTS: filing and payment methods)
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000041 (Government24 guide; last changed 2025-10-29)
+- https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?mi=2201&bbsId=1028&nttSn=1350715 (NTS press release, May 2026)
+- https://www.nts.go.kr/english/main.do ("Guide to Filing 2025 Global Income Tax Return for Foreigners (English, Chinese, Vietnamese)")
+
+Excerpt (NTS):
+"홈택스(www.hometax.go.kr) 전자신고 홈택스 → 로그인 → 세금신고 → 종합소득세 신고 ... 모바일 홈택스(손택스) 전자신고 "홈택스 앱" 설치 → 로그인 → ... 세무대리인을 통한 신고 ... 서면신고 ... 관할세무서에 우편접수 및 민원실에 접수"
+"홈택스(www.hometax.go.kr) 전자납부 로그인(공동 · 금융인증서 필수) → 납부･고지･환급 → 세금납부 → ... 결제수단선택(계좌이체 · 신용카드 · 간편결제, 이용시간 07:00∼23:30)"
+Government24: "신청방법 인터넷 , 방문 , 우편 ... 처리기간 즉시(근무시간 내 3시간) ... 수수료 수수료 없음 ... 민원인이 제출해야하는 서류 소득금액계산명세서 소득공제명세서 ... 온라인신청 https://www.hometax.go.kr/"
+Press release: "모두채움 안내문과 간편하게 개편된 홈택스(손택스)에서 '이대로 신고하기'를 통해 보다 편리하게 소득세를 신고"
+[Gloss: file on Hometax, the Hometax mobile app, through a tax agent, or on paper at the tax office; pay online by transfer/card/easy pay after certificate login; immediate processing, no fee; pre-filled (모두채움) returns.]

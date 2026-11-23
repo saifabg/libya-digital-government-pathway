@@ -1,0 +1,11 @@
+Evidence ID: LBY_portal
+Portal: https://ejraat.gov.ly (Libya administrative procedures portal, UNCTAD eRegulations)
+Access date: 2026-11-22
+URLs: https://ejraat.gov.ly/?l=ar ; https://ejraat.gov.ly/procedures?l=ar ; https://ejraat.gov.ly/procedures?l=en ; https://ejraat.gov.ly/Team?l=ar
+Wayback: http://web.archive.org/cdx/search/cdx?url=ejraat.gov.ly&matchType=domain ; http://web.archive.org/web/20211205060107/https://ejraat.gov.ly/?l=ar
+Verbatim excerpts:
+[Team] "مرحبًا بكم في بوابة ليبيا للإجراءات الإلكترونية ، المنصة التي تنفذها وزارة الاقتصاد والتجارة بالشراكة مع الهيئة العامة للمعلومات وبدعم من مؤتمر الأمم المتحدة للتجارة والتنمية (UNCTAD) و مؤسسة خبراء فرنسا (EF) ، المشروع بتمويل من الاتحاد الأوروبي"
+[procedures?l=ar] "بحث في كل قواعد البيانات المستودعات الاجراءات 31 المؤسسات 26 القوانين واللوائح 31 نماذج ووثائق 11" (English page: "Procedures 29 Institutions 26 Laws and norms 31 Forms and documents 11"); 44 unique /procedure/ links on the Arabic list (includes superseded variants)
+[home ?l=ar menus] "تسجيل شركة؛ الحصول على رخصة نشاط فردي؛ إقامة مشروع استثماري؛ دفع ضريبة؛ خدمات مركز تنمية الصادرات؛ خدمات امنية" ; e-services menu "الخدمات الالكترونية": external links "خدمات الحالة الجنائية (es.moi.gov.ly, 404); الإستعلام عن منحة الاولاد (mch.services.mosa.ly); الاستعلام عن بطاقة منحة الزوجة والبنات فوق سن 18 (mwd.services.mosa.ly); حجز الاسمنت (cement.ndb.ly); طلب الحصول على التأشيرة الايطالية (vfsglobal.com); مصرف الوحدة أون لاين (wahda.ly)"
+Footer/menus: "من نحن"، "الاتصال بنا"، "أخلاء المسؤولية"; per procedure "Contact us about this procedure". No privacy, accessibility or open-data text found in the page HTML (searched for خصوصية/privacy, إمكانية الوصول/accessibility, بيانات مفتوحة/open data). Viewport meta "width=device-width,initial-scale=1".
+Wayback: earliest capture 2021-12-05 (https://ejraat.gov.ly/?l=ar, HTTP 200; root captures from 2021-12-27 are 302 redirects to /?l=ar). The 2021-12-05 capture lists 22 unique procedure links (ids 2,5,8,11,12,14,15,16,17,19,21,23,24,27,28,30,32,33,34,35,36,37) and a complaints/suggestions form ("الشكاوى والاقتراحات").

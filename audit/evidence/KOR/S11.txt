@@ -1,0 +1,15 @@
+Evidence ID: KOR_S11
+Service: Social security benefit application incl. basic livelihood security (사회보장급여 신청 / 생계급여)
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=14600000275 (Government24 guide; last changed 2025-03-25; search label 내용보기)
+- https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001132&wlfareInfoReldBztpCd=01 (Bokjiro 생계급여, 기준연도 2026)
+- https://www.bokjiro.go.kr/ssis-tbu/index.do (Bokjiro home: notice pop-up, menu 서비스 신청 현황; application requires login)
+- https://online.bokjiro.go.kr/ : browser "Privacy error" (certificate warning) on 2026-11-22; not bypassed.
+- https://foreigner.gov.kr/?langCd=en (English menu item "Basic Livelihood Security")
+
+Excerpt (Government24): "신청방법 인터넷 , 방문 , 우편 ... 기초생활보장 | 총30일 ... 수수료 수수료 없음 ... - 기초생활보장: 생계급여, 의료급여, 주거급여, 교육급여 등"; required: "소득ㆍ재산 신고서 금융정보등 제공 동의서 ... 신청인(대리신청인)의 신분을 확인할 수 있는 서류 ... 임대차 계약서, 급여명세서 등"; not required (official checks): "가족관계등록부 주민등록정보 ... 건물등기부등본 ... 자동차등록원부 ..."
+Bokjiro 생계급여: "신청방법 주민등록상 주소지 관할 시군구 및 읍면동에서 연중 신청 가능합니다. ... 시군구 에서 서비스에 대한 조사 및 심사를 진행합니다 ... 대상자 확정"
+Bokjiro notice: "복지로 서비스신청 중단 안내(PC, 모바일) ... 일정 : 2026. 11. 20.(금) 20:00 ~ 11. 21.(토) 10:00 ○ 대상 서비스 : 복지급여 신청, 복지민원 신청 ..."
+Bokjiro login: "정부 통합로그인 ... 정부 통합인증(Any-ID) ... 간편인증 ... 공동인증서 ... 금융인증서"; "복지로 누리집 이용문의 1566-0313 ... 보건복지상담센터 129".
+[Gloss: Government24 says apply online, in person or by post, 30 days, free; many registry documents are checked by officials but ID and income documents are still required. The Bokjiro benefit page names only in-person application at the local office (conflict noted); the Bokjiro notice confirms online benefit application on PC and mobile; national SSO login.]

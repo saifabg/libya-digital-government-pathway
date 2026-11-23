@@ -1,0 +1,16 @@
+Evidence ID: SAU_portal
+Portal: https://my.gov.sa (Unified National Platform GOV.SA)
+Access date: 2026-11-22
+Coder: AI-A
+Access status: Blocked (bot check / geo)
+
+Live access (2026-11-22):
+- Chrome (own tab): title "Attention Required! | Cloudflare"; page text: "Sorry, you have been blocked / You are unable to access my.gov.sa / Why have I been blocked? / This website is using a security service to protect itself from online attacks." Cloudflare Ray ID a5e965cc59105f26. Not bypassed.
+- WebFetch: HTTP 403 Forbidden.
+
+Wayback Machine (official portal content, archived):
+- CDX earliest: "sa,gov,my)/ 20190724102500 https://my.gov.sa/ unk 302" -> P9 = 2019.
+- Most recent capture used for P3-P8: http://web.archive.org/web/20260101191345/https://my.gov.sa/en
+  Excerpt: "National Platform (National Portal) Official government website of the Government of the Kingdom of Saudi Arabia ... National Portal The national reference for all digital government information and services in the Kingdom of Saudi Arabia ... Centralized A single point with unified digital identity that provides you with an access to all the government services quickly and easily from anywhere at any time. ... View All Services ... File Complaint - Digital Complaint A service that enables beneficiaries to submit complaints regarding government... Digital Government Authority ... Open Government Data ... Privacy and Data Protection ... Frequently Asked Questions Accessibility Subscribe Help and support ... Contact us Beneficiaries Engagement Center (Amer) Digital Complaint"
+  HTML: button aria-label="Search"; links /en/content/accessibility, /en/digital-complaint, /en/contact, /en/content/sso-info ("National Profile"), https://open.data.gov.sa/ar/home.
+- 2021 captures checked for P10: http://web.archive.org/web/20211125045500/https://www.my.gov.sa/wps/portal/snp/main ("استكشف الخدمات الحكومية السعودية جميع خدماتك الحكومية في منصة إلكترونية وطنية موحدة"; no count); http://web.archive.org/web/20210325214023/https://www.my.gov.sa/wps/portal/snp/content/help (no count); http://web.archive.org/web/20210413040126/https://www.my.gov.sa/wps/portal/snp/servicesDirectory (alphabetical list, pages "Previous 1 2 3 4 5 Next", no total). P10 left blank.

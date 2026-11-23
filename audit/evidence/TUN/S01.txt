@@ -1,0 +1,14 @@
+Evidence ID: TUN_S01
+Service: Birth registration / birth certificate
+Access date: 2026-11-22
+URLs:
+- https://e-bawaba.tn/auth/login (CNI citizen portal, public login page; rendered in Chrome)
+- https://www.interieur.gov.tn/actualite/32515 (Ministry of Interior, 07/01/2025)
+- https://khadamet.gov.tn/الحالة-المدنية-الوثائق-الرسمية/ (national portal civil-status section)
+- http://web.archive.org/web/20260809223433/https://www.commune-tunis.gov.tn/demarches-formalites_AR.aspx (Tunis municipality, archived copy; live site has an expired certificate)
+Excerpts (verbatim):
+[e-bawaba] "تهدف بوابة الخدمات الرقمية الموجهة للمواطن، إلى تمكين التونسيين من التمتع بالخدمات الإدارية على الخط من خلال نافذة رقمية موحدة ومؤمنة وذلك عبر استعمال الهُوِيَّة الرقمية على الجوال ... تسجيل الدخول / طلب الهُوِيَّة الرقمية ... وثائق الحالة المدنية المستخرجة : 302815 ... إلى حدود 21 نوفمبر 2026"
+[Interior, ID-card campaign document list] "مضمون ولادة مُستخرج من دفاتر الحالة المدنيّة أو مُستخرج على الخط لم يمضِ على تاريخ إصداره أكثر من 03 أشهر."
+[khadamet civil-status section] "لا توجد خدمات متاحة في هذا القسم"
+[Tunis municipality, civil-status list] "ترسيـم ولادة ... مضمون وفاة / مضمون زواج / مضمون ولادة ... طلب وثائق الحالة المدنية على الخط"
+Notes: Coded on the birth certificate (extract), which can be obtained online on e-bawaba with the mobile digital ID. The birth declaration itself (ترسيم ولادة) is an in-person municipal service. Service pages are behind login (not observed). No official page reached states the fee for the online extract. Legal basis cited in secondary databases: joint order of 16 Aug 2022 (JORT 2022-090) fixing the model of the birth extract delivered online (not read on an official site).

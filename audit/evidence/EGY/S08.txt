@@ -1,0 +1,11 @@
+Evidence ID: EGY_S08
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs:
+https://www.eehc.gov.eg/eehcportal/
+https://eservices.eehc.gov.eg/ (services > الشحن و التحصيل)
+Excerpt (EEHC portal): buttons 'الحصول على الخدمة' (eservices.eehc.gov.eg) and 'ادفع الان' (opens Fawry payment plugin: onclick="loadFawryPluginPopup(...)").
+Excerpt (unified platform): المنصة الموحدة لخدمات الكهرباء ... +٤٥٠ مركز خدمة ... تطبيق ... يمكنك الآن تتبع استهلاكك، ودفع الفواتير بسرعة ... الخط الساخن 24/7 121
+Sub-services: منصتك الموحدة لجميع خدمات الكهرباء حيث يمكنك إتمام جميع العمليات الخاصة بشركة الكهرباء من مكانك دون الحاجة للتوجة إلى المصالح الحكومية / سداد فاتورة - سداد قيمة استهلاك الكهرباء للوحدة. ابدأ الطلب / طلباتي ... Header: تسجيل الدخول
+National portal (digital.gov.eg/categories, group الكهرباء): استعلام عن الفواتير - تأتيكم قريبا

@@ -1,0 +1,13 @@
+Evidence ID: TUN_S08
+Service: Electricity bill payment
+Access date: 2026-11-22
+URLs:
+- https://khadamet.gov.tn/المالية/ (service "دفع فواتير الكهرباء والغاز لدى الشركة التونسية للكهرباء والغاز", links out to STEG)
+- https://www.steg.com.tn/fr/clients_res/paiement_internet.html (live: connection timed out)
+- http://web.archive.org/web/20250408030106/https://www.steg.com.tn/fr/clients_res/paiement_internet.html (archived copy used)
+- http://web.archive.org/web/20240518234837/https://www.steg.com.tn/en/clients_res/paiement_internet.html (English, archived)
+Excerpts (verbatim):
+[khadamet] "يسمح هذا الموقع للمواطنين بالوصول إلى مساحتهم الشخصية لدفع فواتيرهم عبر الإنترنت أو تقديم شكاوى"
+[STEG FR] "Payer par Internet / Paiement dans les guichets / Paiement par Téléphone portable (USSD) / Paiement par domiciliation / MOBICASH OOREDOO / Paysmart ... Plus besoin de vous déplacer ... payez directement votre facture via notre site web ... Paiement par e-Dinar et Dinarpost ... Paiement par carte bancaire ... 1. Accéder à votre espace client moyennant nom utilisateur et mot de passe ... Si la transaction est acceptée ... vous aurez un reçu de paiement."
+[STEG EN] "Payment by Internet ... It is a service available for the versions Arab and French of the site."
+Notes: The live STEG site was unreachable (timeout, probably geo-restricted), so archived official pages were used. The STEG page is not responsive; mobile access is through USSD and mobile-money payment.

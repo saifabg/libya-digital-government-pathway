@@ -1,0 +1,14 @@
+Evidence ID: LBY_S05
+Service: Company registration (local company)
+Access date: 2026-11-22
+URLs:
+- https://ejraat.gov.ly/procedure/45?l=en (and ?l=ar)
+- ejraat API used by the page: https://ejraat.gov.ly/api/procedure/45/(blocksteps|requirements|costs|timeframe|institutions)?l=ar|en
+- https://economy.gov.ly (Ministry of Economy and Trade; link "منظومة السجل التجاري" -> http://cr.economy.gov.ly/ : connection timed out (curl) / Chrome connection error on 2026-11-22, not observed)
+Verbatim excerpts (ejraat procedure 45):
+Steps (en, 15, all "IsOnline": false): "Obtain name clearance certificate; Obtain company documents; Open bank account and deposit company capital; Pay capital tax; ..." (ar blocks: "الحصول على تصريح بالاسم (شهادة سلبية)"; "تحضير مستندات الشركة"; "الحصول على السجل التجاري للشركة"; "الحصول على شهادة قيد بالغرفة التجارية"; "الحصول على الرقم الضريبي"; "الحصول على رخصة تجارية")
+Institutions: "General commercial registry; Notaries offices; Any commercial bank; Chamber of commerce and industry; Tripoli tax administration; Commercial licensing office"
+Required documents include: "National number certificate; National ID or Passport; Memorandum of association; ... Real estate lease or ownership contract"
+Costs include: "1600 LYD (قد يختلف السعر من محرر عقود الى آخر)"; "0.5% ضريبة الدمغة على رأس المال"; "206 LYD"; chamber fees 250-1150 LYD by company type; "100.5 LYD رسوم ترخيص شركة ذات مسؤولية محدودة مع الضريبة (per-year)"
+Time (API): Days Min 2.24, Max 3.38
+ejraat is implemented by the Ministry of Economy and Trade with the General Information Authority, UNCTAD and Expertise France (EU-funded) (https://ejraat.gov.ly/Team).

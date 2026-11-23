@@ -1,0 +1,16 @@
+Evidence ID: ZAF_S08
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.e-tshwane.co.za/what-are-the-services
+https://www.e-tshwane.co.za/payment-services
+https://www.e-tshwane.co.za/help-faqs
+https://www.gov.za/services/place-live/municipal-services
+
+Excerpt (verbatim, official sources):
+City of Tshwane municipal account (rates, water and electricity).
+[e-Tshwane] "e-Tshwane is a secure free online service ... via the internet and mobile devices. ... users can upload meter readings, pay traffic fines, lodge queries, apply for services, view statements, and make payme[nts]".
+[Payment services] "e-Tshwane payments are recorded immediately on payment and we issue you with an electronic proof of payment."
+[FAQs] "Registration on e-Tshwane and usage of the site is free." Registration needs "Your City of Tshwane municipal account number; Your SA ID number or valid Passport number". "click on the 'Pay selected Accounts' option". "The status for your payment will remain as 'Pending' ... until you have completed the payment release." "call Center on 086 144 4779". "The site currently does not cater for pre-paid electricity".
+[gov.za Municipal services] "Contact your local municipality to apply for these services." (no link to e-Tshwane).

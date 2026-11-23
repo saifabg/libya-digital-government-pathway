@@ -1,0 +1,13 @@
+Evidence ID: LBY_S10
+Service: Public university admission / enrolment (coded: University of Tripoli, capital)
+Access date: 2026-11-22
+URLs:
+- https://sms.uot.edu.ly/regnew/ (University of Tripoli online registration system)
+- https://uot.edu.ly/edj/announcement-details.php?id=1509 ; https://uot.edu.ly/announcement-details.php?id=73 ; https://uot.edu.ly/announcement-details.php?id=1669&lang=ar ; https://uot.edu.ly/streg2020.php
+- https://mohe.edu.ly (Ministry of Higher Education portal; account registration by national number / admin number / passport)
+Verbatim excerpts:
+[sms.uot.edu.ly/regnew] "نظام التسجيل والدراسة الإلكتروني التسجيل مغلق حاليا تابع موقع الجامعة لمعرفة موعد فتح التسجيل !!"
+[uot announcement 1509] "يُعلن المسجل العام بجامعة طرابلس عن فتح باب التسجيل للعام الدراسي 2024/ 2025 م عبر البريد الإلكتروني للطلبة المتحصلين على الشهادة الثانوية 2023/ 2024 م من خلال الرابط المرفق أدناه. https://sms.uot.edu.ly/regnew/"
+[uot announcement 1669] "تعلن إدارة المسجل العام بجامعة طرابلس للطلبة الجدد الذين استكملوا تسجيلهم في المنظومة ... أنه يمكنهم تسليم ملفاتهم إلى السيد مسجل المرحلة بمبنى الكيمياء الدور الثالث ... على أن تكون الملفات مصحوبة بالمستندات التالية: - ملف معلق. - شهادة الثانوية الأصلية. - أربع صور شخصية. - شهادة الميلاد."
+[uot.edu.ly/streg2020.php] "نظام التسجيل والدراسة الالكتروني مرحبا بك في لوحة الدخول الخاصة بنظام التسجيل والدراسة الدخول"
+[mohe.edu.ly/RegistrationOptions] "اختر نوع الهوية المستخدمة للتسجيل ... التسجيل بإستخدام الرقم الوطني ... الرقم الإداري ... جواز سفر"

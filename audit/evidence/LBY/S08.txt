@@ -1,0 +1,10 @@
+Evidence ID: LBY_S08
+Service: Electricity bill payment
+Access date: 2026-11-22
+URLs:
+- https://gecol.ly -> 301 -> https://www.gecol.ly/ : "HTTP Error 404. The requested resource is not found." (curl and Chrome, 2026-11-22)
+- https://www.gecol.ly/Home/BalanceInquiry, /Home/ContractingPayment, /ElectricityBill.aspx, /GContact, /Home/Index : all HTTP 404 on 2026-11-22; http://www.gecol.ly/ : no response
+- ejraat.gov.ly: no electricity procedure listed
+Archived (not used for scoring): http://web.archive.org/web/20250827195315/https://www.gecol.ly/Home/BalanceInquiry
+Verbatim excerpt from the 2025-08-27 capture: "الإستعلام عن فاتورة الكهرباء للإستعلام عن الفاتورة إدخل رقم نقطة الخدمة هنا. إستعلام" ; menu "خدمات المستهلكين الاستعلام عن فاتورة التعاقد والتزويد والسداد شكاوي ومقترحات"
+Observation: live site unavailable on the audit date; one access day only (protocol asks for retries on three days).

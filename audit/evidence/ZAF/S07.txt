@@ -1,0 +1,11 @@
+Evidence ID: ZAF_S07
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.sars.gov.za/types-of-tax/personal-income-tax/filing-season/
+https://www.gov.za/services/online-services
+
+Excerpt (verbatim, official sources):
+[SARS Filing Season 2026] "Complete and submit your Personal Income Tax Return (ITR12). Use SARS eFiling or the SARS MobiApp." "Less capturing, more prefilled data: Some of your information (like investment income) will already be filled in on your form". "An Auto Assessment is when SARS works out your tax return for you using information already received from: Your employer, Banks, Medical schemes ..." "Gather your supporting documents in advance." "Can I see my refund amount and payment date or the payment due date of the amount owed by me to SARS on eFiling? Yes". "How to make payments to SARS via the SARS MobiApp". "If you have no other choice but to visit a SARS Service Centre, ensure that you have booked your appointment ... You may also visit our Mobile Tax Units".
+[gov.za Online services] "SARS eFiling is a free online process for the submission of tax returns and declarations" (link to sarsefiling.co.za).

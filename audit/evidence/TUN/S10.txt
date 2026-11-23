@@ -1,0 +1,13 @@
+Evidence ID: TUN_S10
+Service: Public university admission / enrolment
+Access date: 2026-11-22
+URLs:
+- https://khadamet.gov.tn/أدرس-في-الجامعة/ (life event "أكمل تعليمي في الجامعة")
+- https://www.inscription.tn/ORegMx/Inscription.jsp (Ministry of Higher Education)
+- https://www.orientation.tn (live: connection timed out)
+Excerpts (verbatim):
+[khadamet] "تعمير بطاقة الاختيارات في الدورة الرئيسية للتوجيه الجامعي ... الوثائق المطلوبة: لا يوجد / مراحل الخدمة: 1. رقم بطاقة التعريف الوطنية 2. رقم البكالوريا 3. كلمة العبور الشخصية 4. ادراج الاختيارات 5. التسجيل 6. ظهور وصل استلام ... من 23 إلى 27 جويلية 2025 ... مكان إيداع الملف: عن بعد"
+[khadamet] "الإطّلاع على نتائج الدورة الرئيسية للتوجيه الجامعي ... إرسالية قصيرة إلى الرقم 85000 ... أو الضغط على الرابط أسفله"
+[khadamet] "التسجيل الجامعي عن بعد: تتيح هذه الخدمة للطلاب التسجيل عبر الإنترنت في المؤسسات التعليم العالي العمومي ... الوثائق المطلوبة: لا يوجد ... لإتمام دفع رسوم التسجيل"
+[inscription.tn] "Accedez a votre espace étudiant avec votre compte ou via e-Houwiya ... Se connecter avec Mobile ID"
+Notes: Choices, results and enrolment with fee payment are all online. inscription.tn is in French (Arabic only in the e-Houwiya notice); the khadamet pages are in Arabic. Fee amount not stated.

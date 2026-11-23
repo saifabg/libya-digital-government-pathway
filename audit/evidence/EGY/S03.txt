@@ -1,0 +1,12 @@
+Evidence ID: EGY_S03
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs:
+https://moi.gov.eg/passports/home/getpassport/1 (live site: ERR_CONNECTION_TIMED_OUT in Chrome; WebFetch ECONNREFUSED, 2026-11-22)
+Archived official page used: http://web.archive.org/web/20260227093109/https://moi.gov.eg/passports/home/getpassport/1
+English page (archived 2025): http://web.archive.org/web/2025/https://moi.gov.eg/passportsen_fr/home/getpassport/2
+Also checked: https://www.mfa.gov.eg/ar/ConsularServicesAndTransactions/Details/73 (consulates abroad, in person); https://www.egypt.gov.eg (certificate expired, not bypassed)
+Excerpt (Arabic, Feb 2026 capture):
+تتولى الإدارة العامة للجوازات والهجرة والجنسية وفروعها الجغرافية بالمحافظات المختلفة مهمة إصدار جوازات السفر للمواطنين المتواجدين داخل البلاد طبقا للإختصاص المكاني ... • يتم الحصول علي نموذج (29) جوازات مميكن مجانا من الإدارة العامة أو أحد فروعها الجغرافية. • تملاء بيانات الصفحة الأولي من النموذج ( 29 جوازات مميكن ) بمعرفة صاحب الشأن. رسم إستخراج جواز السفر المصري : • قيمة رسم جواز السفر المميكن مبلغ (705) جنيهاً ... • قيمة رسم طلب جواز بدل فاقد أو تالف ... (1155) ... خدمة جواز السفر المميز : ... إستخراج وإستلام جواز السفر في ذات يوم تقديم الطلب ... بديوان الإدارة العامة ... ومندوبيات الجوازات بالمراكز التجارية والوحدات المتنقلة ... مقابل مبلغ (500) جنيهاً. خدمة جواز السفر العاجل : ... في يوم العمل التالي ... مقابل مبلغ قدره (100) جنيهاً.
+English capture: The cost of issuing an automated passport is LE135 ... The passport shall be delivered on the third day after the application process.

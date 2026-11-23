@@ -1,0 +1,20 @@
+Evidence ID: ZAF_portal
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.gov.za/
+https://www.gov.za/services/online-services
+https://www.gov.za/terms-and-conditions-use-0
+https://www.gov.za/sa-government-online-website-feedback
+http://web.archive.org/cdx/search/cdx?url=www.gov.za&limit=3
+http://web.archive.org/web/20211206002859/https://www.gov.za/services/online-services
+
+Excerpt (verbatim, official sources):
+[gov.za] "Online Services: Some transactions with government can be completed online". Header "Search gov.za". Footer "Feedback", "Terms and conditions", "Android mobile app", "Apple mobile app".
+[Terms] "Privacy ... The privacy statement applies to the GCIS and any legal entity, which control, verify or make use of information that may be collected via this site."
+[Feedback] "SA Government Online website feedback".
+No accessibility statement, open-data link or national single sign-on found.
+P2: portal states no total; own count of Online Services entries = 43 (2026-11-22).
+P9: Wayback CDX earliest "za,gov)/ 19941105134618 http://www.gov.za:80/".
+P10: capture 20211206002859 of /services/online-services lists 35 entries.

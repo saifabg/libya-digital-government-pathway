@@ -1,0 +1,9 @@
+Evidence ID: LBY_S09
+Service: Vehicle registration renewal
+Access date: 2026-11-22
+URLs:
+- https://moi.gov.ly, https://www.moi.gov.ly and https://es.moi.gov.ly (Ministry of Interior) - all serve the same notice page
+- https://ejraat.gov.ly/procedures?l=ar (no vehicle procedure)
+Verbatim excerpt (moi.gov.ly, full page text): "إعلان هام تود وزارة الداخلية الليبية أن تعلن بأن جميع الأعمال التقنية والأنظمة الإلكترونية المتعلقة بالوزارة هي تحت السيطرة الكاملة للوزارة وتتم إدارتها ومتابعتها من قبل الفريق التقني المختص. ... جميع الحقوق محفوظة © وزارة الداخلية الليبية"
+The ejraat e-services link "خدمات الحالة الجنائية" -> https://es.moi.gov.ly/criminal-case-form returns HTTP 404.
+Observation: no official page on vehicle registration/licence renewal found (searches returned only other countries and legal databases).

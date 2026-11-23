@@ -1,0 +1,7 @@
+TUN S02 National ID card (CIN) - Tunisia
+Accessed 2026-11-22
+Source 1: https://services.interieur.gov.tn/wap/fr/docs/demarches/01.html (Ministère de l'Intérieur, "Vos Démarches - Carte d'Identité Nationale")
+Extract: Première fois - Pièces à fournir: Imprimé administratif à remplir; Extrait de naissance établi des registres originaux d'état civil datant de 3 mois au plus; Attestation prouvant la nationalité tunisienne; Attestation de résidence; Attestation de travail ou de présence scolaire ou universitaire; 3 photos d'identité ...; Quittance de paiement du droit de timbre fiscal dû ... Lieu de dépôt du dossier: Poste de la police ou de la garde nationale du lieu de résidence du demandeur. Délais: Dans les 15 jours à partir de la date de dépôt de la demande.
+Renouvellement - Pièces: imprimé administratif; Extrait de naissance datant de 3 mois au plus; 3 photos; Copie de la carte à renouveler ...; Quittance de paiement du droit de timbre fiscal dû. Lieu de dépôt: Poste de la police ou de la garde nationale. Perte: Timbre fiscal de 25 dinars.
+Source 2: https://services.interieur.gov.tn/ - "مطبوعات على الخط: بطاقة التعريف الوطنية" (downloadable form uploads/imprimes/01.pdf). No online application/booking/payment described.
+Source 3: National portal https://services.gov.tn/interieur/ ("Le portail national des services administratifs") - Intérieur section lists only: "Service de demande en ligne pour l'obtention du casier judiciaire n°3" and "Suivi en ligne de la demande d'obtention du casier judiciaire n°3". No CIN service listed.

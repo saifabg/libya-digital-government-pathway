@@ -1,0 +1,13 @@
+Evidence ID: TUN_S02
+Service: National ID card (first issue / renewal)
+Access date: 2026-11-22
+URLs:
+- https://services.interieur.gov.tn/wap/ar/docs/demarches/01.html (Ministry of Interior administrative guide, mobile version)
+- https://services.interieur.gov.tn/ (forms list: uploads/imprimes/01.pdf "بطاقة التعريف الوطنية"; HTTP 200, not downloaded)
+- https://www.interieur.gov.tn/actualite/33100 (14/01/2026)
+- https://khadamet.gov.tn/modernisation-du-systeme-de-sante-numerique-vers-un-acces-simplifie-aux-dossiers-medicaux/ (khadamet news item, published 2025-12-15)
+Excerpts (verbatim):
+[guide] "الحصول على بطاقة التعريف الوطنية لأول مرة ... الوثائق المطلوبة: مطبوعة إدارية للتعمير / مضمون ولادة مستخرج من السجلات الأصلية للحالة المدنية لم يمض على تاريخ إصداره أكثر من ثلاثة أشهر / شهادة في الجنسية التونسية / شهادة إقامة ... وصل خلاص معلوم الطابع الجبائي المستوجب ... مكان إيداع الملف: مركز الأمن "شرطة أو حرس وطني" مرجع النظر لإقامة الطالب. أجل الحصول على الخدمة: خلال 15 يوما من تاريخ تقديم الطلب"
+[Interior 14/01/2026] "الحملة الوطنيّة لإستخراج بطاقات التعريف الوطنيّة لفائدة تلاميذ الباكالوريا دورة 2027 من 20 جانفي إلى مُوفى شهر فيفري 2026 باستخدام منصّة رقميّة نمُوذجيّة تعتمدُ آليّة الترابط البيني"
+[khadamet news] "تعلن وزارةالداخلية عن إطلاق تجربة نموذجية لخدمة طلب بطاقة التعريف الوطنية عن بعد لفائدة تلاميذ الثالثة ثانوية ... https://cineleve.interieur.gov"
+Notes: For the general public there is information and a downloadable form only (C1=1). A remote request exists only as a time-limited pilot for secondary-school students; cineleve.interieur.gov.tn timed out (ports 443 and 80) from the audit location. The fee amount is not stated (only "stamp duty receipt"). An Android guidance app is offered on services.interieur.gov.tn (/android/e-interieur.apk, not an app-store listing).

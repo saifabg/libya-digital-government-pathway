@@ -1,0 +1,14 @@
+Evidence ID: KOR_S08
+Service: Electricity bill payment (전기 요금 납부), KEPCO
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/portal/service/serviceInfo/PTR000051143 (Government24 page; 소관기관 한국전력공사; 최종수정일 2026.08.14)
+- https://cyber.kepco.co.kr/ , https://online.kepco.co.kr/ , https://en.kepco.co.kr/ : connection timed out from the audit location on 2026-11-22 (curl exit 28; browser did not load). Retry on other days needed.
+
+Excerpt (Government24):
+"금융기관이나 지사 방문 없이 인터넷으로 직접 전기 요금을 납부"
+"○ 인터넷 - 계좌이체 · 한전 사이버지점 인터넷 납부 서비스 이용, 고객의 은행 계좌에서 전기 요금 납부(전 고객 납부 가능, 별도 수수료 없음) ... - 신용카드 및 포인트 ... 별도 수수료 없음 ... - 인터넷 지로"
+"○ 자동납부 - 신청방법 · 한전 사이버지점에서 공동인증서로 신청 · 한전 고객센터(☎ 123) 신청 · 한전 지점 또는 금융기관 방문 신청"
+"○ 편의점 - GS25, 세븐일레븐, 미니스톱, CU, 바이더웨이 ○ 금융기관 - ... 금융기관 방문, 창구 또는 CD/ATM 기기로 납부"
+"절차/방법 24시간 전기 상담 고객센터(http://cyber.kepco.co.kr/ckepco/) 접속 구비서류 제출서류가 없음 접수기관 한국전력공사 / 연락처 123"
+[Gloss: pay online by bank transfer, card or internet giro with no extra charge; direct debit via the KEPCO cyber branch with a certificate, call centre 123, or branch/bank; pay at convenience stores and bank counters/ATMs; no documents required.]

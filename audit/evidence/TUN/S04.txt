@@ -1,0 +1,12 @@
+Evidence ID: TUN_S04
+Service: Civil-status extract
+Access date: 2026-11-22
+URLs:
+- https://e-bawaba.tn/auth/login (CNI citizen portal, public page)
+- https://khadamet.gov.tn/الحالة-المدنية-الوثائق-الرسمية/
+- http://web.archive.org/web/20260809223433/https://www.commune-tunis.gov.tn/demarches-formalites_AR.aspx (archived copy; live site has an expired certificate)
+Excerpts (verbatim):
+[e-bawaba] "تمكين التونسيين من التمتع بالخدمات الإدارية على الخط ... عبر استعمال الهُوِيَّة الرقمية على الجوال ... أرقام حول الخدمات الموفرة عبر البوابة: وثائق الحالة المدنية المستخرجة : 302815 ... إلى حدود 21 نوفمبر 2026"
+[khadamet] "الحالة المدنية والوثائق الرسمية ... لا توجد خدمات متاحة في هذا القسم"
+[Tunis municipality] "الحالة المدنية ... مضمون وفاة / مضمون زواج / مضمون ولادة ... استخراج الدفتر العائلي لاول مرة واستخراج نظير من الدفتر العائلي ... طلب وثائق الحالة المدنية على الخط"
+Notes: e-bawaba states that civil-status documents are extracted online (generic count). Which extract types (marriage, death, family record) are available could not be seen without login; only the online birth extract is documented specifically (see TUN_S01). The family record booklet is issued in person (municipality). Fee not stated.

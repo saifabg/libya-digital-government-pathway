@@ -1,0 +1,11 @@
+Evidence ID: SAU_S07
+Service: Income or corporate tax filing and payment
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://zatca.gov.sa/en/eServices/Pages/eservices-032.aspx
+- https://zatca.gov.sa/en/eServices/Pages/eServices-013.aspx
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[Submit Corporate Income Tax (CIT) Return] This e-service allows you to file all related income tax returns for a specified period of time (including transaction pricing documents). Your tax return will be available to be filed on time at ZATCA portal. / Service Steps / Log into the ZATCA website / Select 'Returns' / Choose the return you want to submit / Fill in the return with your entity's financial data and submit it / You will receive a notification of the invoice amount via SMS and email. / Target Audience / All registered taxpayers for CIT / Service Duration / 5 Minutes / Service Cost / No Fees / Service Channels / Website / Service Languages / Arabic / Phone / 19993 / Last Update: 26 Oct 2026
+[Corporate Income Tax (CIT) Payment] "It is an e-service that allows you to pay dues via e-banking services or ATMs after submitting or amending the return." Steps: "Receive SADAD invoice," "Pay," "Payment notification."

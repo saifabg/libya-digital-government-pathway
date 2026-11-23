@@ -1,0 +1,10 @@
+Evidence ID: EGY_S12
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs (Cairo governorate, capital coded):
+https://www.cairo.gov.eg/ar/governorate-entities/neighborhoods/services/eservice-provided-by-cairo-governorate/
+https://www.cairo.gov.eg/media/zmacwtgn/طلب-ترخيص-اعمال-بناء-جديد.pdf (form, not downloaded)
+https://lgs.gov.eg/ (بوابة خدمات المحليات, linked from Cairo site; Chrome: did not load / timed out, 2026-11-22)
+Excerpt (forms page, نماذج الخدمات المقدمة من محافظة القاهرة): نموذج طلب استخراج بيان بصلاحية الموقف من الناحية التخطيطية والإشتراطات البنائية / طلب ترخيص اعمال (بناء جديد) / طلب ترخيص اعمال (تعلية) / طلب ترخيص اعمال (اضافة) / طلب ترخيص اعمال (تعديل)
+Links are PDF application forms. Page responsive (meta viewport).

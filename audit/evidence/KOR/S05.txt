@@ -1,0 +1,18 @@
+Evidence ID: KOR_S05
+Service: Company incorporation (법인설립등기) via the Online Incorporation System
+Access date: 2026-11-22
+URLs:
+- https://www.startbiz.go.kr/index.do (온라인 법인설립시스템, Ministry of SMEs and Startups / KISED)
+- https://www.startbiz.go.kr/contents/intr/startBizSys.do (overview)
+- https://www.startbiz.go.kr/contents/intr/startBizSysIntro.do (introduction)
+- https://www.startbiz.go.kr/board/faq/faqList.do (FAQ)
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000051 (Government24: tax registration step after incorporation, links to Hometax)
+
+Excerpt:
+"기관방문없이! 대행수수료없이! 온라인상으로 간편하게 설립할 수 있는 법인설립등기"
+"법인설립을 위해 30개 이상의 구비서류를 작성하여 7개 기관을 방문해 처리하던 법인설립 업무를 온라인으로 쉽고 빠르게 처리할 수 있는 법인설립 시스템입니다."
+"1. 하나하나 수작업으로 작성하던 신청서와 제출서류를 온라인으로 자동 생성합니다. 2. 다수의 기관을 방문하여 신청하였던 민원처리를 온라인으로 한번에 신청 및 처리합니다"
+FAQ categories: "회사설립서류작성 주금납입보관증명 잔액(고) 증명 등록면허세 신고납부 법인설립등기신청 사업자등록 신청 4대사회보험 신고"; "② 법인설립 진행 업무 시간(수수료 납부, 등기 제출) ... [평일 09:10~17:40]"; "법인등기신청시 전자서명은 ... 수수료 납입후, 보정제출에서만 서명이 가능합니다."; "인증서를 재등록하고 싶습니다."
+Menus: 법인설립진행업무 (progress); 길라잡이 서비스 "전담상담사가 등기신청까지 1:1로 지원"; 상담 및 문의 1577-5475.
+[Gloss: incorporate online without visiting agencies; forms auto-generated; fees and registration tax paid and registration filed online with certificate e-signatures; progress menu; counsellor and phone support.]
+Note: Government24 searches for 법인설립 / 법인설립등기 did not return the Online Incorporation System or iros.go.kr; they list only the tax-office step (법인설립신고 및 사업자등록: online via Hometax, 총 2일, 수수료 없음). Processing time and total fees for incorporation were not found on the pages viewed (cost-guide pop-up not read). No English version seen on startbiz.go.kr. The page declares a responsive viewport (width=device-width).

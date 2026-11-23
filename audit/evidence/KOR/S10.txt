@@ -1,0 +1,15 @@
+Evidence ID: KOR_S10
+Service: Public university admission: Seoul National University (national university corporation), undergraduate
+Access date: 2026-11-22
+URLs:
+- https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=175130 ("2027학년도 수시모집 인터넷 접수 OPEN", 2026-09-07)
+- https://admission.snu.ac.kr/index.html (admission office home; notices)
+- https://admission.snu.ac.kr/undergraduate/regular/guide (정시 guide; details only in PDF/HWP files, not downloaded)
+- Government24 search "대학 입학 원서접수" (2026-11-22): returns only 대학입학전형료 면제·감액 with "정부24 온라인 신청 불가"
+
+Excerpt:
+"2027학년도 수시모집 ... 인터넷 접수 바로가기 진학사(jinhakapply.com) 유웨이(uwayapply.com)"
+"• 모든 지원자들은 2026.9.7.(월) 10:00 ~ 9.9.(수) 18:00 기간 내에 반드시 전형료 결제를 완료해야 하며, 전형료 결제를 완료한 후 접수번호까지 확인하여야 실제 접수가 완료된 것입니다."
+"진학사(jinhakapply.com) 고객센터 자주하는 질문(FAQ) 바로가기 유웨이(uwayapply.com) 고객센터 ..."
+Home: "2027학년도 수시모집 일반전형 면접 및 구술고사 안내"; "2027학년도 수시모집 일반전형 및 기회균형특별전형 1단계 합격자 발표"; "→ 합격자 발표 바로가기"; "TEL. 학사 (02) 880-5022"; "→ Go to English Website".
+[Gloss: applications only online through two private application platforms; application fee paid online; results announced online; the general early-admission track includes an in-person interview/oral exam; phone contact.]

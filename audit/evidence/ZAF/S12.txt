@@ -1,0 +1,14 @@
+Evidence ID: ZAF_S12
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.tshwane.gov.za/?p=82100
+https://www.tshwane.gov.za/?page_id=21806
+https://www.e-tshwane.co.za/land-development
+
+Excerpt (verbatim, official sources):
+City of Tshwane coded.
+[Media statement 19 Dec 2024] "The City of Tshwane has launched a new electronic system for the submission and processing of building plans. ... (NAPS), went live in December 2024 ... The rollout of NAPS has started in Regions 1 and 4 ... Applicants can access NAPS on the e-Tshwane portal ... email support@e-tshwane.co.za or call 0861 444 779."
+[Land Applications] "moving towards automated services that can be tracked and updated online ... Application to approve building plans ... You need a municipal account number to register on e-Tshwane."
+No fee schedule, processing time or document checklist found; no gov.za building-permit page.

@@ -1,0 +1,14 @@
+Evidence ID: KOR_S12
+Service: Building permit (건축허가). Capital: Seoul (permits issued by the autonomous district head 구청장, or the Seoul mayor for large buildings)
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=15000000066 (Government24 guide)
+- https://www.eais.go.kr/ (세움터 building administration system, MOLIT; online 민원신청 by region incl. Seoul districts)
+- https://www.eais.go.kr/moct/awp/abb01/AWPABB01F11 (login page)
+
+Excerpt (Government24): "신청방법 인터넷 , 방문 , 우편 ... 수수료 조례로 결정 ... 2층 이하 또는 1천제곱미터미만 건축물 | 총7일 ... (건축사 업무대행) | 총7일 ... 16층 이상 또는 3만제곱미터이상 건축물 | 총25일 ... 특별시, 광역시장의 허가대상 건축물 | 총40일"
+"민원인이 제출해야하는 서류 건축할 대지의 범위에 관한 서류 건축할 대지의 소유 또는 그 사용에 관한 권리를 증명하는 서류 ... (... 신분증명서의 사본을 첨부하여야 한다 ...)" ; "민원인이 제출하지 않아도 되는 서류 (담당공무원이 확인) ... 토지등기사항증명서 토지(임야)대장"
+eais home: "민원신청 민원을 검색하여 편리하게 신청하세요 ... 건축·대수선·용도변경 허가 신고 건축인허가 ... 세움터 콜센터 02-3480-0200 ... 나의 민원현황"; login page: "정부 통합로그인은 한 번의 로그인으로 연계된 모든 공공 웹서비스를 이용할 수 있는 인증 서비스입니다."; side menu "나의민원 처리현황 ... 건축사보 전자서명".
+"for Foreigner" on eais opens an English system introduction only (INTRODUCTION, CLOUD EAIS(SEUMTER) ...), not service information.
+[Gloss: apply online, in person or by post; fee set by local ordinance; 2-70 days by building type, with architect-agent (건축사 업무대행) tracks; land and ownership documents required, land registry checked by officials; online filing on 세움터 with national SSO, status tracking and call centre.]
+Permit delivery method (electronic or in person) not confirmed on the pages viewed.

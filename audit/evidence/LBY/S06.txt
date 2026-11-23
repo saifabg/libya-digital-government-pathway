@@ -1,0 +1,12 @@
+Evidence ID: LBY_S06
+Service: Commercial / business activity licence
+Access date: 2026-11-22
+URLs:
+- https://ejraat.gov.ly/procedure/11?l=en (and ?l=ar); category "Get an activity license > Individual activity" also lists procedures 5, 14, 15, 16, 17, 24 (restaurant, shops, workshops, bakery)
+- ejraat API used by the page: https://ejraat.gov.ly/api/procedure/11/(blocksteps|requirements|costs|timeframe|institutions)?l=ar|en
+Verbatim excerpts (ejraat procedure 11, "Opening a store (Food / Grocery / Supermarket)"):
+Steps (13, all "IsOnline": false): "Notarize the application form for name clearance; Request name clearance; Check name availability; Pay fees; ..." ; ar: "طلب الحصول على رخصة تجارية"; "الحصول على موعد زيارة ميدانية"; "تلقي زيارة ميدانية (رخصة تجارية)"; "دفع الرسوم"; "الحصول على الرخصة التجارية"
+Institutions: "Notaries offices; General commercial registry; Tripoli city tax office; Commercial licensing office"
+Required documents (21) include: "National ID or Passport; National number certificate; Lease contract or property certificate; Sketch drawing; Applicant health card; Recent applicant photos"
+Costs: "30 LYD (notary, approx.)"; "50.5 LYD رسوم الشهادة السلبية"; "201 LYD محل مواد غدائية"; "150.75 LYD بيع خضروات وفواكه"; "603 LYD سوق تجاري ممتاز"
+Time (API): Days Min 3.79, Max 6.55

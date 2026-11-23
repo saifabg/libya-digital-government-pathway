@@ -1,0 +1,16 @@
+Evidence ID: ZAF_S03
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://ehome.dha.gov.za/ehomeaffairsv3
+https://www.dha.gov.za/index.php/statements-speeches/2116-triples-passport
+https://www.dha.gov.za/index.php/civic-services/travel-documents
+https://www.gov.za/services/services-residents/travel-outside-sa/apply-passport-or-travel-document
+https://myhomeaffairsonline.dha.gov.za/
+
+Excerpt (verbatim, official sources):
+[DHA statement, 18 Nov 2026] "passport applications for adults older than 18 officially going live at 480 bank branches ... expanding from just 228 Home Affairs offices to an unprecedented 708 service locations ... the new passport application process involves no prior bookings, paperwork, or queues. ... the next phase ... as well as secure courier delivery of Smart ID Cards and passports for the first time."
+[eHomeAffairs] "Submit ID and Passport applications online, Make online payments for applications, Make bookings where allowed. Note: (A branch visit is mandatory to capture and/or verify your biometric details ...)".
+[DHA Travel documents] "Ordinary Tourist Passports ... The turnaround time for issuance is 13 working days. The applicable tariff is R600 ... Applications ... can be submitted at any Home Affairs front office ..., participating banks ... or through the eHomeAffairs channel. ... A passport application ... must be made in person." Documents: "Your original identity document and a copy".
+[myhomeaffairsonline] "Apply for a Smart ID Card re-issue or a Passport directly through a participating Partner Branch".

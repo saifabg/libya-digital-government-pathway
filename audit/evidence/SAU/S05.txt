@@ -1,0 +1,11 @@
+Evidence ID: SAU_S05
+Service: Company (business) registration
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://mc.gov.sa/en/eservices/Pages/ServiceDetails.aspx?sID=38
+- https://business.sa/en/eservices/details/ee829025-1253-41d3-f9fc-08dd6ab9228a (redirects to scbc.gov.sa)
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[MC: A commercial registration for an establishment] An electronic service provided by the Ministry of Commerce through the Saudi Business Center platform, allowing beneficiaries to start their businesses without having to visit service centers. / Access the platform: Via the National Unified Access through the Saudi Business Center platform. / ... Payment: Issue the invoice and pay the fees via SADAD or card. - After payment, the commercial registration is officially issued. / Automatic registration with relevant authorities: After issuing the record, registration is automatic with: the Ministry of Human Resources - the Zakat, Tax and Customs Authority - the General Organization for Social Insurance - Saudi Post (National Address) - the Chamber of Commerce. / Duration of service / immediately / The service is provided in / Arabic and English / Service Fees / 500 / You can call the unified number 1900 / Service Delivery Channels / website / Branchs Link / Last Modified 16 Sep 2026
+[scbc.gov.sa: Recording Commercial Registration for Sole Proprietorship] Service Duration / Instant / Service Fees / SAR 500 ... In the event that the applicant is a cooperative or charitable association, the following documents must be submitted ... A copy of the registration certificate must be submitted.

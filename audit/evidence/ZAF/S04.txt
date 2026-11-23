@@ -1,0 +1,17 @@
+Evidence ID: ZAF_S04
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.dha.gov.za/index.php/civic-services/birth-certificates
+https://www.dha.gov.za/index.php/civic-services/marriages
+https://www.dha.gov.za/index.php/ask-us
+https://www.gov.za/services/services-residents/relationships/getting-married
+
+Excerpt (verbatim, official sources):
+Coded on re-issue of unabridged birth / marriage certificates (DHA).
+[DHA Birth certificates] "can apply for a re-issue of a birth certificate at a fee of R75 (unabridged birth certificate) and a fee of R20 (abridged birth certificate). The applicant's ID document is required." "The forms mentioned below are provided at Home Affairs offices".
+[DHA Marriages] "the Department commenced with the issuance of unabridged marriage certificates on the spot in all offices as of 31 March 2025."
+[DHA Ask us] "What is the waiting period for unabridged birth certificate? It can take between three to eight weeks"
+[gov.za Getting married] "You can apply for a copy of the marriage certificate from the Department of Home Affairs ... The first issue of an abridged marriage certificate is free, but you will have to pay for a second issue or an unabridged certificate." (links to dha.gov.za)
+No online application channel for certificates found.

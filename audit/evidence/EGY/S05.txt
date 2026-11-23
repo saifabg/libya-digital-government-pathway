@@ -1,0 +1,12 @@
+Evidence ID: EGY_S05
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs:
+https://portal.gafi.gov.eg/services/eServices/departmentService?DSID=4
+https://gafi.gov.eg/en/contenttemplate/b208989f-efbc-486f-9f92-761ac716007f (Digital Services, English)
+https://gafi.gov.eg/en/contenttemplate/daeb2d81-5fc7-4aaf-a430-c82168b75ad6 (Investor Service Centers)
+https://digital.gov.eg/categories/terms/طلب-قيد-أفراد (sole proprietorship, national portal)
+Excerpt (GAFI LLC): شركة ذات مسئولية محدودة ... المستندات المطلوبة 1- استصدار شهادة عدم التباس الاسم التجارى للشركة 2- صورة توكيلات مميكنة من جميع الشركاء ... 4-صور إثبات الشخصية (سارية واضحة) للمؤسسين أو الشركاء : - رقم قومي للمصريين ... قنوات تقديم الخدمة: البوابة الاكترونية فقط / تقديم طلب الخدمة. Header: تسجيل الدخول / مستخدم جديد.
+GAFI (English): Electronic Incorporation Services - Launch your investments through a unified digital platform ... 15 Investor Service Centers have been established across Egypt to date. Home page KPI: 1 Business Day to Incorporate Companies.
+National portal: طلب قيد أفراد ... صاحب الشأن هو المؤهل لطلب الخدمة ... من خلال رقمه القومى المرتبط بحسابه على البوابة ... المستندات المطلوبة - لا يوجد.

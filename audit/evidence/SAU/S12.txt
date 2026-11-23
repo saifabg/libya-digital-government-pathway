@@ -1,0 +1,10 @@
+Evidence ID: SAU_S12
+Service: Building permit
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://momah.gov.sa/en/e-services/issuance-building-license
+- https://balady.gov.sa/en/services/issuing-building-permit (connection refused 2026-11-22)
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[MoMAH: Issuing a Building Permit] 1. Access the dashboard and select your user role / 2. The permit owner or their representative authorizes a design engineering office to initiate the building permit process. / 3. The design office logs into the Balady Business platform, accepts the owner's delegation, starts the application, selects the land's survey report where the permit is requested, and begins preparing the architectural and structural designs. They complete the application data, attach the required files, approve the municipal undertakings, and submit the request to the technical inspection company. / ... 9. The design office completes the application, reviews the permit fees, agrees to them, and issues an invoice for the municipal fees. The design office and owner are notified with the payment link. The permit is issued after these fees are paid. The permit is not valid for use until the insurance policy payment is complete. / 10. The permit details are sent to relevant entities ... through integrated services. / Required documents: "Updated Electronic Title Deed from the Ministry of Justice, Housing Contract, or Investment Contract." "Valid Cadastral Report (for construction purposes)." ... / Time Required "1 - 10 Days" / Service cost (fee calculator) / "Submit electronically only through Balady portal, Mobile" / Phone "199040"

@@ -1,0 +1,15 @@
+Evidence ID: KOR_S03
+Service: Passport reissue (여권 재발급 온라인 신청)
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/portal/service/serviceInfo/126200000030 (online reissue; 최종수정일 2026.11.05)
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12600000001 (passport issuance general guide: fees, times, receipt)
+
+Excerpt (online reissue):
+"온라인을 통해 여권 재발급 신청을 하고 본인이 지정한 여권 사무대행기관에서 교부받는 서비스(수령기관 변경 불가)"
+"온라인 신청의 경우 여권 수령을 위해 1회 본인이 직접 창구를 방문하게 됩니다(대리 수령은 불가합니다...)"
+"처리기간은 근무일 기준 통상 8일(국내 기준) ... "[정부24] MyGov - 서비스 신청내역" 또는 "[정부24] 여권 발급상태 조회"에서 확인이 가능합니다."
+"심사 시 반려된 경우, 신청일로 7일이내 자동환불 됩니다. 단, 계좌이체 등 그 외 건은 [정부24-MyGOV-나의 신청내역-서비스 신청내역]에서 직접 환불 신청이 필요합니다."
+"구비서류 여권용 사진파일" ; "비회원으로 신청하시더라도, 일부 서비스는 간편인증 또는 인증서(공동, 금융)가 별도로 필요합니다."
+Excerpt (general guide): "수수료 국내 : 복수(10년:52,000원, 5년:44,000원) ..." ; "발급된 여권은 지정된 시군구청 등을 방문하거나 개별우편배송서비스(유료)를 통해 수령할 수 있습니다. ※ 단, 온라인 신청시 반드시 방문 수령이 필요합니다." ; "민원인이 제출하지 않아도 되는 서류 (담당공무원이 확인) ... 가족관계증명서 기본증명서 주민등록등(초)본"
+[Gloss: apply online on Government24, collect in person once at the chosen office (no postal delivery for online applications); usually 8 working days; status via MyGov or the passport status lookup; fee paid online (automatic refund if rejected); only a photo file required, registry documents checked by officials; first-time applicants must visit.]

@@ -1,0 +1,96 @@
+Sample: 1815 country-editions, 185 countries, editions [np.int64(2008), np.int64(2010), np.int64(2012), np.int64(2014), np.int64(2016), np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2024), np.int64(2026)]
+OLS with edition fixed effects; standard errors clustered by country.
+
+== M1 infrastructure + human capital   N=1815  R2=0.674
+   Intercept                        +0.0155  (se 0.0375, p=0.679)
+   tii                              +0.5878  (se 0.0491, p=0.000)
+   hci                              +0.2860  (se 0.0551, p=0.000)
+
+== M2 + income + government effectiveness   N=1815  R2=0.708
+   Intercept                        +0.3829  (se 0.0932, p=0.000)
+   tii                              +0.4507  (se 0.0542, p=0.000)
+   hci                              +0.2894  (se 0.0603, p=0.000)
+   log_gdp_pc                       -0.0387  (se 0.0122, p=0.002)
+   gov_effectiveness                +0.1023  (se 0.0168, p=0.000)
+
+== M3 + stability + voice + oil dependence   N=1815  R2=0.747
+   Intercept                        +0.2783  (se 0.0885, p=0.002)
+   tii                              +0.3662  (se 0.0463, p=0.000)
+   hci                              +0.3610  (se 0.0551, p=0.000)
+   log_gdp_pc                       -0.0304  (se 0.0120, p=0.011)
+   gov_effectiveness                +0.1691  (se 0.0176, p=0.000)
+   political_stability              -0.0787  (se 0.0115, p=0.000)
+   voice_accountability             -0.0156  (se 0.0118, p=0.188)
+   oil_dependent                    +0.0003  (se 0.0307, p=0.992)
+
+== M4 = M3 + fragile x oil   N=1815  R2=0.756
+   Intercept                        +0.2475  (se 0.0811, p=0.002)
+   tii                              +0.3669  (se 0.0444, p=0.000)
+   hci                              +0.3297  (se 0.0542, p=0.000)
+   log_gdp_pc                       -0.0235  (se 0.0116, p=0.042)
+   gov_effectiveness                +0.1629  (se 0.0163, p=0.000)
+   political_stability              -0.1037  (se 0.0131, p=0.000)
+   voice_accountability             -0.0042  (se 0.0114, p=0.716)
+   oil_dependent                    +0.0257  (se 0.0345, p=0.457)
+   fragile                          -0.0685  (se 0.0258, p=0.008)
+   fragile:oil_dependent            -0.1421  (se 0.0595, p=0.017)
+
+== Robustness: M3 on 2024-2026 only   N=363  R2=0.740
+   Intercept                        +0.5969  (se 0.0981, p=0.000)
+   tii                              +0.2160  (se 0.0635, p=0.001)
+   hci                              +0.6075  (se 0.0815, p=0.000)
+   log_gdp_pc                       -0.0640  (se 0.0135, p=0.000)
+   gov_effectiveness                +0.1816  (se 0.0224, p=0.000)
+   political_stability              -0.0746  (se 0.0144, p=0.000)
+   voice_accountability             -0.0200  (se 0.0129, p=0.123)
+   oil_dependent                    -0.0433  (se 0.0342, p=0.204)
+
+== Robustness of fragile x oil-dependent interaction (M4)
+   Fragile and oil-dependent in at least one edition: Chad, Iran (Islamic Republic of), Iraq, Libya, South Sudan, Venezuela, Bolivarian Republic of, Yemen
+   all countries                    N=1815  coef -0.142 (se 0.060, p=0.017)
+   without Libya                    N=1806  coef -0.093 (se 0.043, p=0.029)
+   without Libya, Iraq and Yemen    N=1788  coef -0.060 (se 0.048, p=0.216)
+   fragile = stability <= -1.0      N=1815  coef -0.123 (se 0.050, p=0.013)
+
+== Libya: residual from M1 (infrastructure + human capital) and M3 (adds income, governance, stability, voice, oil)
+   2008  OSI 0.080  resid M1 -0.254 (rank 5/179)  resid M3 -0.017 (rank 84/179)
+   2010  OSI 0.137  resid M1 -0.114 (rank 30/179)  resid M3 +0.095 (rank 150/179)
+   2014  OSI 0.016  resid M1 -0.400 (rank 3/184)  resid M3 -0.341 (rank 3/184)
+   2016  OSI 0.109  resid M1 -0.433 (rank 1/183)  resid M3 -0.316 (rank 2/183)
+   2018  OSI 0.097  resid M1 -0.453 (rank 1/183)  resid M3 -0.380 (rank 1/183)
+   2020  OSI 0.041  resid M1 -0.428 (rank 1/182)  resid M3 -0.367 (rank 1/182)
+   2022  OSI 0.099  resid M1 -0.237 (rank 14/182)  resid M3 -0.248 (rank 5/182)
+   2024  OSI 0.081  resid M1 -0.650 (rank 1/181)  resid M3 -0.493 (rank 1/181)
+   2026  OSI 0.342  resid M1 -0.338 (rank 3/182)  resid M3 -0.204 (rank 7/182)
+
+== Mean residual 2016-2026 by country (M1 vs M3)
+   Libya              M1 -0.423   M3 -0.335
+   Tunisia            M1 +0.050   M3 +0.017
+   Egypt              M1 +0.047   M3 -0.033
+   South Africa       M1 +0.116   M3 +0.087
+   Saudi Arabia       M1 +0.053   M3 +0.041
+   Republic of Korea  M1 +0.116   M3 +0.086
+
+== Largest shortfalls after M3 controls, 2024
+   Libya                    OSI 0.081 TII 0.964 resid -0.493 oil 1 fragile 1
+   Saint Kitts and Nevis    OSI 0.304 TII 0.867 resid -0.362 oil 0 fragile 0
+   Algeria                  OSI 0.332 TII 0.813 resid -0.316 oil 1 fragile 0
+   Iraq                     OSI 0.188 TII 0.687 resid -0.291 oil 1 fragile 1
+   Iran (Islamic Republic o OSI 0.377 TII 0.899 resid -0.291 oil 1 fragile 0
+   Cuba                     OSI 0.230 TII 0.532 resid -0.273 oil 0 fragile 0
+   Georgia                  OSI 0.565 TII 0.907 resid -0.257 oil 0 fragile 0
+   Comoros                  OSI 0.023 TII 0.354 resid -0.235 oil 0 fragile 0
+   Gambia                   OSI 0.096 TII 0.388 resid -0.231 oil 0 fragile 0
+   Botswana                 OSI 0.399 TII 0.865 resid -0.221 oil 0 fragile 0
+
+== Largest shortfalls after M3 controls, 2026
+   Botswana                 OSI 0.120 TII 0.685 resid -0.458 oil 0 fragile 0
+   Syrian Arab Republic     OSI 0.163 TII 0.455 resid -0.303 oil 0 fragile 1
+   Algeria                  OSI 0.436 TII 0.786 resid -0.286 oil 1 fragile 0
+   Comoros                  OSI 0.077 TII 0.527 resid -0.281 oil 0 fragile 0
+   Guinea-Bissau            OSI 0.036 TII 0.391 resid -0.237 oil 0 fragile 0
+   Seychelles               OSI 0.432 TII 0.748 resid -0.209 oil 0 fragile 0
+   Libya                    OSI 0.342 TII 0.804 resid -0.204 oil 1 fragile 1
+   Portugal                 OSI 0.651 TII 0.934 resid -0.196 oil 0 fragile 0
+   Georgia                  OSI 0.684 TII 0.918 resid -0.195 oil 0 fragile 0
+   Bosnia and Herzegovina   OSI 0.401 TII 0.706 resid -0.184 oil 0 fragile 0

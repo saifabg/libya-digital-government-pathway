@@ -1,0 +1,36 @@
+Sample: 564 country-editions, 189 economies; GTMI editions [np.int64(2020), np.int64(2022), np.int64(2025)] -> next UN edition. OLS, edition fixed effects, SE clustered by economy.
+Stage index means: stage0_governance 0.62, stage1_foundations 0.64, stage4_measurement 0.39
+
+Baseline (TII, HCI, income, edition): R2 = 0.618
+P1 governance (Stage 0) -> later OSI: +0.321 (se 0.031, p=0.000), R2 = 0.704
+P2 foundations (Stage 1) -> later OSI: +0.390 (se 0.031, p=0.000), R2 = 0.742
+P1-P2 joint: governance +0.135 (se 0.032, p=0.000); foundations +0.269 (se 0.036, p=0.000); measurement +0.079 (se 0.017, p=0.000); R2 = 0.772
+P3 complementarity (governance x foundations): +0.123 (se 0.062, p=0.046)
+P4 sequencing (GTMI 2022 -> UN 2026 OSI, controlling UN 2022 OSI; N = 189, robust SE): governance +0.016 (se 0.046, p=0.734); foundations +0.148 (se 0.048, p=0.002)
+   Countries starting below the median OSI in 2022 (N = 94): foundations +0.135 (se 0.076, p=0.075); governance +0.038 (se 0.059, p=0.524)
+FCS country-editions in the pooled sample: 101 (38 economies)
+P5 foundations x FCS: foundations +0.301 (se 0.038, p=0.000); FCS -0.017 (se 0.034, p=0.609); interaction -0.002 (se 0.070, p=0.976)
+   Within FCS only (N = 101): foundations +0.453 (se 0.089, p=0.000); governance +0.009 (se 0.067, p=0.888)
+Full six-component foundations, GTMI 2025 -> UN 2026 (N = 187): foundations +0.255 (se 0.055, p=0.000); governance +0.032 (se 0.059, p=0.588); measurement +0.071 (se 0.030, p=0.019); R2 = 0.710
+Foundation components one at a time (pooled, controls as above):
+   I-4: +0.162 (se 0.020, p=0.000)
+   I-22: +0.140 (se 0.021, p=0.000)
+   I-38: +0.132 (se 0.027, p=0.000)
+   I-42: +0.217 (se 0.028, p=0.000)
+   I-26 digital ID (2025 only): +0.123 (se 0.027, p=0.000)
+
+GTMI 2025 stage indices, six countries (OSI = UN 2026):
+iso3  stage0_governance  stage1_foundations  stage4_measurement  stage1_full  osi
+ EGY               0.83                1.00                 1.0         0.92 0.64
+ KOR               1.00                1.00                 1.0         1.00 1.00
+ LBY               0.67                0.46                 0.0         0.39 0.34
+ SAU               1.00                1.00                 1.0         1.00 1.00
+ ZAF               0.67                0.71                 0.5         0.64 0.84
+ TUN               0.83                1.00                 0.5         1.00 0.63
+
+Libya, all GTMI editions:
+ Year  stage0_governance  stage1_foundations  stage4_measurement  stage1_full  I-22_s  I-31_s  I-32_s  I-33_s  I-35_s  I-36_s  I-38_s  I-4_s  I-42_s  I-26_s  I-3_s  un_year  osi
+ 2020               0.22                0.00                 0.0          NaN     0.0     0.0     0.0     0.0    0.67     0.0     0.0    0.0    0.00     NaN    NaN     2022 0.10
+ 2022               0.56                0.00                 0.0          NaN     0.0     0.0     0.0     1.0    0.67     0.0     0.0    0.0    0.00     NaN    0.0     2024 0.08
+ 2025               0.67                0.46                 0.0         0.39     0.0     0.0     0.0     1.0    1.00     0.0     1.0    0.5    0.33     0.0    0.5     2026 0.34
+Libya predicted OSI 2026 with its own 2025 stage indices: 0.511 (actual 0.342); with the comparison countries' median stage indices: 0.759

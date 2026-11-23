@@ -1,0 +1,47 @@
+ISO3,item,criterion,old,new,rule,reason
+LBY,S01,C9,0,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S02,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S03,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S04,C9,0,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S05,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S06,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S07,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S09,C9,0,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S11,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,S12,C9,0,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+LBY,portal,P1,0,1,R6,ejraat.gov.ly is the national portal listing procedures (information only); aligns with C5 coding
+TUN,S02,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+TUN,S03,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+TUN,S06,C9,0,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+TUN,S11,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+TUN,S12,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+EGY,S01,C2,2,1,R1,"login is national ID number plus registered mobile (portal account), not a state digital-identity credential"
+EGY,S02,C2,2,1,R1,"login is national ID number plus registered mobile (portal account), not a state digital-identity credential"
+EGY,S03,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+EGY,S04,C2,2,1,R1,"login is national ID number plus registered mobile (portal account), not a state digital-identity credential"
+EGY,S06,C2,2,1,R1,"login is national ID number plus registered mobile (portal account), not a state digital-identity credential"
+EGY,S08,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+EGY,S09,C2,2,1,R1,"login is national ID number plus registered mobile (portal account), not a state digital-identity credential"
+EGY,S11,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+EGY,S12,C9,0,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+ZAF,S01,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+ZAF,S04,C9,1,NA,R3,C1 <= 1: no online service for an alternative channel to complement
+SAU,S02,C3,1,,R4,online payment inferred from absence of a visit; payment method not stated on the service card
+SAU,S02,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+SAU,S03,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+SAU,S04,C3,1,,R4,online payment inferred from absence of a visit; payment method not stated on the service card
+SAU,S04,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+SAU,S05,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+SAU,S08,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+SAU,S09,C3,1,,R4,online payment inferred from absence of a visit; payment method not stated on the service card
+SAU,S09,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+SAU,S12,C12,1,0,R2,kiosk / cash counter / mandatory or private professional is not an optional assisted digital channel
+KOR,S04,C12,1,0,R2,kiosk / cash counter / mandatory or private professional is not an optional assisted digital channel
+KOR,S04,C2,2,,R4,"login method inferred, not observed"
+KOR,S04,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+KOR,S06,C12,1,0,R2,kiosk / cash counter / mandatory or private professional is not an optional assisted digital channel
+KOR,S07,C12,1,0,R2,kiosk / cash counter / mandatory or private professional is not an optional assisted digital channel
+KOR,S07,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+KOR,S08,C12,1,0,R2,kiosk / cash counter / mandatory or private professional is not an optional assisted digital channel
+KOR,S08,C11,,NA,R5,transaction completed immediately; status tracking not applicable
+KOR,S12,C12,1,0,R2,kiosk / cash counter / mandatory or private professional is not an optional assisted digital channel

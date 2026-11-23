@@ -1,0 +1,13 @@
+Evidence ID: SAU_S01
+Service: Birth registration / birth certificate
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi3Q0NHT2M3A183N2DjAwCnR0Njc0dnQwtDE31C7IdFQFs-AMP/?page=absher.userguide.service.contents&pswid=Z7_11D8H2G0L8KRD0QCP61THH3871&urile=wcm%3Apath%3A%2Fcontents%2Findividuals%2Feservices+user+guide%2Feservices%2Fgeneral-services%2Fgenaral_service402
+- https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi3Q0NHT2M3A183N2DjAwCnR0Njc0dnQwtDE31C7IdFQFs-AMP/?page=absher.userguide.service.contents&pswid=Z7_11D8H2G0L8KRD0QCP61THH3871&urile=wcm%3Apath%3A%2Fcontents%2Findividuals%2Feservices+user+guide%2Feservices%2Fcivil-affairs-services%2Fcivil+affairs_service35
+- https://www.absher.sa/wps/wcm/connect/individuals/contents/individuals+AR/FAQs_AR
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[Automated Registration of Newborns in the Ministry of Interior Records - Card] The automated registration of newborns in the Ministry of Interior's records is one of the proactive services offered via the ministry of Interior's systems - Civil Affairs. It is completed automatically once the newborn's information is entered by hospitals accredited by the Ministry of Health, without requiring any action from the beneficiary. ... / Beneficiaries / Citizens and residents registered and activated in "Absher" platform / Service Language / Arabic / English / Service channels / Integration between the Ministry of Interior's systems and the Ministry of Health's systems / Service Cost / Free / ... / Phone / 9200343222 / Last Updated: 25/08/2026
+[View Digital Birth Certificate - Card] This service allows citizens, residents, and foster families to view and electronically print digital birth certificates for themselves or their family members. ... Service channels / Absher App / Absher Platform / Duration / 24/7
+[Absher FAQ, Arabic] "نعم يمكنك ذلك من خلال منصة أبشر عبر خدمة تسجيل المواليد" ... "توصيل شهادة الميلاد وسجل الأسرة المحدث بعد طلب التوصيل (واصل)"

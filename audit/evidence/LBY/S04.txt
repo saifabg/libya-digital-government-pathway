@@ -1,0 +1,10 @@
+Evidence ID: LBY_S04
+Service: Civil-status extract (family status certificate, marriage certificate)
+Access date: 2026-11-22
+URLs:
+- https://www.cra.gov.ly (Civil Registry Authority)
+- https://ejraat.gov.ly/procedures?l=ar ; https://ejraat.gov.ly/api/procedure/<1..100>/breadcrumb?l=ar
+Verbatim excerpts:
+[cra.gov.ly] "Coming Soon ... Our website is Coming Soon , follow us for update now!"
+[ejraat procedures 48 and 50, required documents, en] "family status certificate"; "family album" (ar: "شهادة الوضع العائلي"; "كتيب العائلة")
+Observation: civil-status extracts are required inputs for the passport and ID procedures on ejraat, but no official page describes how to obtain them. Consular appointment booking for civil-status matters exists for Libyans abroad (consegp.foreign.gov.ly, Rome/Alexandria) - consular, not coded.

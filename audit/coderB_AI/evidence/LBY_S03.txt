@@ -1,0 +1,12 @@
+LBY S03 Passport (issue/renewal) - Libya
+Accessed 2026-11-22
+Source 1: https://ejraat.gov.ly/procedure/48?l=ar and step page https://ejraat.gov.ly/procedure/48/step/544?l=ar (Libya Portal for Administrative Procedures; rendered in browser)
+Extract: استخراج جواز سفر - خدمات المواطن - مصلحة الجوازات والجنسية
+خطوات (4): 1 الحصول على موعد; 2 التصوير الشخصي; 3 دفع رسوم اصدار جواز سفر; 4 استلام جواز السفر - all at "مصلحة الجوازات والجنسية وشؤون الأجانب في كافة فروعها واقسامها"
+Step 1 (آخر تعديل: 05/07/2022): إلى أين ينبغي التوجه؟ ... طريق صلاح الدين, طرابلس; الوحدة المسؤولة: شباك قبول الاجراء; الشخص المسؤول: موظف استلام مستندات; النتيجة المتوقعة: موعد التصوير.
+"يمكنك الحصول على نموذج استخراج جواز السفر من المكتبات ومحلات التصوير وتعبئته وتقديمه"
+Documents: النموذج رقم (1); صور شخصية; شهادة الوضع العائلي (اصل + نسخة); شهادة ميلاد الكترونية; شهادة الاقامة; كتيب العائلة (اصل + نسخة) أو شهادة الجنسية; جواز السفر السابق ("في حال التجديد يجب احضار جواز السفر السابق"); شرعية الدخول للمولودين خارج ليبيا; إيصال دفع رسوم
+الكلفة: LYD 50.5. "بعد تقديم المستندات يتم إفادة المتقدم بموعد التصوير في اليوم والوقت المحددين"
+
+Source 2: https://nid.gov.ly/ (National ID Number project, official): menu "خدمات الكترونية: الاستعلام عن الرقم | طباعة نموذج جواز السفر (http://passapp.nid.gov.ly/passapp/) | حجز مواعيد جواز سفر (http://reservation.nid.gov.ly)".
+Both reservation.nid.gov.ly and passapp.nid.gov.ly failed to load on 2026-11-22: TLS error ERR_CERT_COMMON_NAME_INVALID (certificate only covers *.gia.gov.ly). Content of the booking system could not be observed.

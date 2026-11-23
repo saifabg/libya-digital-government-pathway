@@ -1,0 +1,11 @@
+Evidence ID: SAU_S04
+Service: Civil-status extract (family record)
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi3Q0NHT2M3A183N2DjAwCnR0Njc0dnQwtDE31C7IdFQFs-AMP/?page=absher.userguide.service.contents&pswid=Z7_11D8H2G0L8KRD0QCP61THH3871&urile=wcm%3Apath%3A%2Fcontents%2Findividuals%2Feservices+user+guide%2Feservices%2Fcivil-affairs-services%2Fcivil+affairs_service10
+- https://www.absher.sa/wps/wcm/connect/individuals/contents/individuals+AR/FAQs_AR
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[Issue Family Card (Fathers) - Card] This service enables newly married citizens to request the issuance of a Family Card electronically with ease, without the need to visit Civil Affairs offices. The document is officially issued and delivered directly to the beneficiary's National Address, saving time and effort. / • The isue request must be for the first time only. / • The beneficiary must have at least one dependent (wife, son, or daughter). / • The beneficiary must not have any unpaid fines related to the Civil Affairs. / Beneficiaries / Citizens / Service Language / Arabic / English / Geographical Location / You can contact the nearest Ministerial Agency of Civil Affairs during working hours from 8 AM to 2 PM or reach them via the number (911) / Service channels / Absher Platform، Application, and Tawakkalna / Service Cost / 39.91 Riyal / Duration / Immediate
+[Absher FAQ, Arabic] "خدماتي – خدمات – الأحوال المدنية – سجل الأسرة للأمهات"

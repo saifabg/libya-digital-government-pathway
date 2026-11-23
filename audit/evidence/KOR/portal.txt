@@ -1,0 +1,14 @@
+Evidence ID: KOR_portal
+Portal: Government24 (정부24), https://www.gov.kr (redirects to https://plus.gov.kr/)
+Access date: 2026-11-22
+URLs and excerpts:
+- https://plus.gov.kr/ : "이 누리집은 대한민국 공식 전자정부 누리집입니다. 정부24 ... 통합검색 ... 개인정보처리방침 이용약관 보안센터 웹 접근성 품질인증 마크 획득 (c) Ministry of the Interior and Safety." ; "콜센터 1588-2188 ... 정부민원안내콜센터 국번없이 110"
+- https://plus.gov.kr/minwon (민원 찾기): "검색 결과 10,167 건" (services listed, 2026-11-22)
+- https://plus.gov.kr/login/login : "정부 통합로그인 ... 정부 통합인증(Any-ID) ... 모바일 신분증 스마트폰의 모바일 신분증으로 로그인 간편인증 ... 공동인증서 ... 금융인증서 ... QR코드 로그인 ... (모바일APP 생체정보를 이용하여 로그인) 비회원 로그인(개인)"
+- https://plus.gov.kr/portal/publicsrvcutlzopenapi : "정부24에서 제공되는 공공서비스 정보를 개방하여 ... 공공데이터포털에서 오픈 API를 신청하여 활용할 수 있으니" (links to the public data portal data.go.kr)
+- Service pages carry "국민 신문고 법령, 제도, 절차 등 ... 국민신문고를 이용해 주세요" (epeople.go.kr) and a page satisfaction survey (만족도 평가); menus 상담예약 and 장애인이용안내.
+- https://foreigner.gov.kr/?langCd=en : "GOV.KR provides numerous services for foreign nationals ... ( Service application available in Korean only )"; 26 services listed in English.
+Wayback (Internet Archive API, queried 2026-11-22):
+- CDX earliest: ["kr,gov)/","20110711121908","http://gov.kr:80/","unk","302"]: earliest capture 2011-07-11 (a redirect).
+- https://web.archive.org/web/20211028222554/https://www.gov.kr/portal/service/categorySearch/ : "서비스 전체보기 총 95,736 건의 검색결과가 있습니다. 민원안내/신청 6,201 건 ... 중앙 서비스 5,685 건 지방 서비스 82,391 건"
+Note: P5 coded 1 on the basis of the web-accessibility quality certification mark and the 장애인이용안내 (guide for users with disabilities) menu; no separate accessibility statement was read.

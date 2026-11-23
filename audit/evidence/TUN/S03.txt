@@ -1,0 +1,11 @@
+Evidence ID: TUN_S03
+Service: Passport renewal
+Access date: 2026-11-22
+URLs:
+- https://services.interieur.gov.tn/wap/ar/docs/demarches/02.html (Ministry of Interior guide)
+- https://services.interieur.gov.tn/uploads/imprimes/02.pdf (passport form; HTTP 200, Last-Modified 2014-01-03; not downloaded)
+- https://khadamet.gov.tn/الداخلية/ (Interior section of the national portal)
+Excerpts (verbatim):
+"الحصول على جواز سفر لأوّل مرّة أو تجديده بالنسبة للتونسيّين المقيمين بالتراب التونسي ... الوثائق المطلوبة: تعمير إستمارة الحصول على جواز سفر عادي مقروء آليا وإمضاؤها بصفة شخصية ... نسخة من بطاقة التعريف الوطنية مع الاستظهار بالأصل أو مضمون ولادة بالنسبة للقصر ... وصل خلاص معلوم الطابع الجبائي المستوجب : 25 دنانير بالنسبة للتلاميذ و الطلبة والأطفال دون 6 سنوات / 80 دينارا بالنسبة للبقية ... إضافة الجواز القديم في حالة تجديد ... مكان إيداع الملف: مركز الأمن "شرطة أو حرس وطني" حسب مرجع النظر الترابي. أجل الحصول على الخدمة: خلال 15 يوما من تاريخ تقديم الطلب"
+[khadamet Interior section lists only] "خدمة الطلب على الخط لإستخراج بطاقة السوابق العدلية عدد 3" / "متابعة طلب استخراج بطاقة السوابق العدلية عدد 3 على الخط"
+Notes: Pilot result re-verified: not on khadamet; downloadable PDF form only; no online application, booking or payment found. No official page on a biometric passport found.

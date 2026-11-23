@@ -1,0 +1,13 @@
+Evidence ID: EGY_S07
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs:
+https://eservice.incometax.gov.eg/etax
+https://eta.gov.eg/ar/alasylt-alshayt?category_id=110
+https://eta.gov.eg/ar/content/qaymt-albnwk-alty-tqdm-khdmt-altaml-bnzam-almtalbat-aljdyd
+https://eta.gov.eg/en/home
+Excerpt (e-tax portal): ...تطوير منظومة العمل الضريبي عن طريق تقديم الاقرارات الضريبية الكترونيا ... حيث يتيح النظام القدرة على ملئ وتقديم الاقرار الكترونيا عبر الويب ... سهولة إدارة السجل الضريبي الإلكتروني عبر التطبيقات المتاحة على عدة أنظمة ومنها الهواتف النقالة. Header: تسجيل دخول. Footer: 16395
+Excerpt (FAQ, e-returns): كيف يمكن للممولين تقديم الإقرارات الضريبية السنوية إلكترونياً عبر المنظومة الموحدة دون أخطاء؟ ... 6. تقديم الإقرار وسداد الضريبة في المواعيد القانونية لتجنب الغرامات ... 7. ... يمكن للممول التواصل مع مركز الاتصالات المتكامل بمصلحة الضرائب المصرية
+Excerpt (banks): قائمة بالبنوك التى تقدم خدمة قبول المدفوعات طبقا لنظام المطالبات الجديد (lists 24 banks; channel not specified).
+ETA English site: Login / New Registration / Taxpayer Portal ... List of banks offering service on the new claims system.

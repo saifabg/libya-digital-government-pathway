@@ -1,0 +1,7 @@
+TUN S09 Vehicle circulation tax (vignette / taxe de circulation) - Tunisia
+Accessed 2026-11-22
+Source 1: https://www.finances.gov.tn/fr/autres-services ("AUTRES SERVICES - Vente de vignettes")
+Extract: Tarif de la taxe de circulation (vignette): Personnes physiques 1 à 4 CV 60 DT; 5-7 CV 120; 8-9 CV 160 ... Délais de paiement: 5 Février (personnes morales), 5 Mars (personnes physiques, numéros pairs), 5 Avril (numéros impairs et motocycles). Exonérations ... (No channel, documents or online option described on this page.)
+Source 2: https://www.finances.gov.tn/fr/e-services - list of e-services (teledeclaration, amendes.finances.gov.tn, e-timbres, liasse, tej ...); no circulation-tax entry found.
+Source 3: https://taxe-circulation.finances.gov.tn/ (domain under the Ministry of Finance, reported elsewhere as the online payment platform) - could NOT be read: connection refused (ECONNREFUSED 193.95.99.147:443) via curl, WebFetch and browser on 2026-11-22.
+Source 4: National portal https://services.gov.tn/finances/ and /je-conduis-un-vehicule/ - no circulation tax / vignette service found (Finances: Impôts, Paiement électronique, Timbres électroniques, Recouvrement; vehicle life event: Modification du véhicule, Documents et certificats, Contrôle technique et rendez-vous, Transfert de propriété).

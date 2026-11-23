@@ -1,0 +1,22 @@
+Second coder sheet: audit/Second_Coder_Sheet_AI_coderB.xlsx
+C1: n = 14, agreement = 93%, Cohen's kappa = 0.89, quadratic weighted kappa = 0.95
+C2: n = 7, agreement = 86%, Cohen's kappa = 0.70
+C3: n = 5, agreement = 100%, Cohen's kappa = 1.00
+C4: n = 11, agreement = 82%, Cohen's kappa = 0.66
+C5: n = 11, agreement = 82%, Cohen's kappa = 0.68
+C9: n = 9, agreement = 44%, Cohen's kappa = -0.22
+C12: n = 14, agreement = 100%, Cohen's kappa = 1.00
+All seven criteria pooled: n = 71, agreement = 85%, Cohen's kappa = 0.78
+
+Disagreements (resolve by discussion and record the outcome in the workbook Reliability sheet):
+  EGY S05 C1: A = 2, B = 3
+  EGY S06 C2: A = 1, B = 2
+  ZAF S02 C4: A = 2, B = 0
+  SAU S03 C4: A = 2, B = 1
+  EGY S05 C5: A = 1, B = 0
+  KOR S04 C5: A = 1, B = 2
+  EGY S05 C9: A = 1, B = 0
+  EGY S06 C9: A = 0, B = 1
+  SAU S02 C9: A = 1, B = 0
+  SAU S03 C9: A = 1, B = 0
+  SAU S07 C9: A = 1, B = 0

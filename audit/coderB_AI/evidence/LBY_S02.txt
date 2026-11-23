@@ -1,0 +1,17 @@
+LBY S02 National ID card (البطاقة الشخصية) - Libya
+Accessed 2026-11-22
+Source 1: https://ejraat.gov.ly/procedure/50?l=ar  (بوابة ليبيا للإجراءات الإدارية / Libya Portal for Administrative Procedures, eRegulations; rendered in browser)
+Extract (page text):
+استخراج بطاقة شخصية - خدمات المواطن - مصلحة الجوازات والجنسية
+خطوات (3):
+1 طلب إستخراج بطاقة شخصية - مصلحة الجوازات والجنسية - البطاقات الشخصية في كافة فروعها واقسام بالمصلحة
+2 دفع رسوم استخراج بطاقة شخصية - (same office)
+3 استلام البطاقة الشخصية - (same office)
+الوثائق المطلوبة (10): النموذج رقم (1); صور شخصية; شهادة ميلاد الكترونية; شهادة الوضع العائلي; كتيب العائلة; شهادة الاقامة; إثبات مهنة او تعريف طالب; فصيلة الدم; جواز سفر; إيصال سداد رسوم البطاقة الشخصية
+الكلفة: LYD 3.5
+المدة الزمنية الاجمالية: 7.5 - 10.5 days (queue 20-35 min)
+القوانين: القانون رقم 18 لسنة 1963 بشأن البطاقات الشخصية
+No online application, booking or payment is described; all three steps are at the authority's branches.
+
+Source 2: https://www.cra.gov.ly/ (Civil Registry Authority) - page shows only "Coming Soon ... Our website is Coming Soon" (no service content).
+Source 3: https://moi.gov.ly/ - only an announcement page (no service content).

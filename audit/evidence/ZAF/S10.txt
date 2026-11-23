@@ -1,0 +1,16 @@
+Evidence ID: ZAF_S10
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.up.ac.za/online-application
+https://www.up.ac.za/online-application/application-fee
+https://www.up.ac.za/online-application/online-application-instructions
+https://www.gov.za/services/services-residents/education-and-training/tertiary-education/register-tertiary-institution
+
+Excerpt (verbatim, official sources):
+University of Pretoria coded (no central admission; gov.za: "Apply for admission directly to the institution of your choice"). up.ac.za gave HTTP 403 to curl; read in Chrome.
+[UP] "Apply online and Upload your ID/Passport and final School results ... Pay your application fee. ... check the UP Student Portal regularly for your application status ... Final admission will be communicated on the UP Student Portal."
+[Application fee] "you will need to pay an application fee of R300 for 2027. ... Online credit card payment as part of this application submission".
+[Instructions] "The University of Pretoria does not make use of representatives, agents or agencies during the application process."
+gov.za links only to DHET, SAQA and TVET sites, not to UP.

@@ -1,0 +1,16 @@
+Evidence ID: LBY_S02
+Service: National ID card (personal card), first issue or renewal
+Access date: 2026-11-22
+URLs:
+- https://ejraat.gov.ly/procedure/50?l=ar (and ?l=en)
+- ejraat API used by the page: https://ejraat.gov.ly/api/procedure/50/(blocksteps|requirements|costs|timeframe|institutions)?l=ar|en
+- https://ejraat.gov.ly/api/procedure/50/step/551 and /step/555 (step details)
+Verbatim excerpts (ejraat procedure 50):
+Title: "خدمات المواطن > مصلحة الجوازات والجنسية > استخراج بطاقة شخصية"
+Steps: "1 طلب إستخراج بطاقة شخصية" / "2 دفع رسوم استخراج بطاقة شخصية" / "3 استلام البطاقة الشخصية" (API: "IsOnline": false for all steps)
+Institution: "مصلحة الجوازات والجنسية - البطاقات الشخصية في كافة فروعها واقسام بالمصلحة" ; Address "بن عاشور, طرابلس"
+Required documents (en, 10): "Passports & ID form No (1); Recent applicant photos; electronic birth certificate; family status certificate; family album; Residence certificate; Proof of profession or student identification; blood type; passport; ID card payment receipt"
+Cost: "LYD 3.5" ; step 555 payment method: "IsPayMethodCash": true, "IsPayMethodCard": false
+Time (API): Days Min 7.06, Max 10.12
+Law: "Law No. 18 of 1963 regarding personal cards"
+English page (?l=en): documents/institution/cost shown in English, but title and step names remain in Arabic; procedure 50 is not in the English procedures list.

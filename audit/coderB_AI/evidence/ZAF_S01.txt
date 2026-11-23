@@ -1,0 +1,8 @@
+ZAF S01 Birth registration / birth certificate - South Africa
+Accessed 2026-11-23
+Source 1: https://www.dha.gov.za/index.php/civic-services/birth-certificates (Department of Home Affairs, "Birth Certificates & Registration")
+Extract: "* Please note: The forms mentioned below are provided at Home Affairs offices, unless otherwise specified."
+"Births must be registered within 30 days ... The parent(s), next of kin, or legal guardian of the child must visit the nearest Home Affairs office or the nearest South African embassy or consulate if the client is abroad. Proof of birth from the health facility where the birth occurred (Form DHA 24/PB ...). An affidavit (DHA 24/PBA ...) ... Once the child's birth has been registered, a birth certificate with full details of the child and parent(s) is issued free of charge. Where applicable, a marriage certificate must be provided."
+Re-issue: "... can apply for a re-issue of a birth certificate at a fee of R75 (unabridged birth certificate) and a fee of R20 (abridged birth certificate). The applicant's ID document is required."
+Late registration: "Visit the nearest Home Affairs office with the following documents: ... ID/Passport of parent(s) ..."
+Source 2: National portal https://www.gov.za/services/services-residents/birth/register-birth: "The birth can be registered by a parent, guardian or any other person legally responsible for the child at an office of the Department of Home Affairs ... Find out more about how to register a birth, or contact the Department of Home Affairs." (links to DHA)

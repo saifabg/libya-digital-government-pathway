@@ -1,0 +1,10 @@
+Evidence ID: SAU_S11
+Service: Social-assistance or social-security benefit application
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://www.hrsd.gov.sa/en/ministry-services/services/%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B6%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1
+- https://sbis.hrsd.gov.sa/ (blank page)
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[HRSD: Developed Social Security System] "An electronic service supported by artificial intelligence to apply for social insurance pension." / Registration: ID number, date of birth and mobile number; a "Verification Code" is sent; log in with "ID number and password." / fill out the application (primary wage earner, income statement, family information, bank account details), attach required documents, submit; follow up under "My applications" until a decision is made. / Duration "1-25 days" / "Free Service" / Channels: "artificial intelligence," "Android app," "iOS app," "The Electronic gate" / Phone 19911 / Languages "English" and "Arabic"

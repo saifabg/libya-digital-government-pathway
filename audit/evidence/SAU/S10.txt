@@ -1,0 +1,12 @@
+Evidence ID: SAU_S10
+Service: Public university admission / enrolment
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://www.moe.gov.sa/ar/services/unified-services-guide/unified-admission
+- https://www.moe.gov.sa/ar/knowledgecenter/eservices/Pages/unified-admission.aspx
+- https://dar.ksu.edu.sa/en/FAQ
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[MoE service card, Arabic] "هي خدمة إلكترونية تقدمها وزارة التعليم عبر المنصة الوطنية للقبول الموحد" / "إنشاء حساب جديد في بوابة القبول." / "إدخال البيانات الشخصية المطلوبة" / "متابعة حالة الطلب والاستعلام عنه عبر البوابة." / بعد نتائج الفرز تأكيد القبول، وعدم التأكيد "يسقط حق الطالب في الترشيح" / مدة الخدمة: "فوري" / التكلفة: "مجانية" / قنوات الخدمة: "البوابة الالكترونية" / "آخر تحديث 1448/05/02هـ"
+[KSU Deanship of Admission FAQ] "The application process is fully online and does not require submitting documents" (exceptions: non-Saudi students with Saudi mothers; certificates from international schools or from outside the Kingdom).

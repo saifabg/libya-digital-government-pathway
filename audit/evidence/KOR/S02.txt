@@ -1,0 +1,16 @@
+Evidence ID: KOR_S02
+Service: Resident registration (national ID) card reissue (주민등록증 재발급) / first issue
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000018 (reissue; last changed 2026-06-24)
+- https://plus.gov.kr/search/searchdtl?srvcId=13100000018&typeSn=01 (same, new Government24 layout, button 신청하기)
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000013 (first issue)
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=17410000052 (mobile ID card; states collection rule)
+
+Excerpt:
+Reissue: "신청방법 인터넷 , 방문 ... 처리기간 총 14일 ... 수수료 IC칩 미포함: 5,000원 // IC칩 포함: 10,000원"
+"민원인이 제출해야하는 서류 6개월 이내에 촬영한 3.5㎝×4.5㎝의 ... 상반신 사진 1장 종전의 주민등록증 (단, 분실, 파기 등의 경우는 제외) ... 민원인이 제출하지 않아도 되는 서류 (담당공무원이 확인) ... (본인)가족관계증명서(상세)"
+First issue: "정부24로 신청시 지문등록을 위하여 지정한 지문등록기관에 6개월이내에 방문하여야 합니다." (수수료 없음, 총 14일)
+Mobile ID page: "※ 정부24를 통해 주민등록증 재발급 신청(IC포함) 시 주민센터를 직접 방문하여 증 교부를 받으신후에 모바일 주민등록증 발급을 하시기 바랍니다."
+[Gloss: apply online or in person; 14 days; fee 5,000/10,000 won for reissue (first issue free); photo and old card required, family certificate checked by the official; online first-issue applicants must visit for fingerprints; the card is collected in person at the community centre.]
+Government24 search listing: "주민등록증재발급신청 ... 인증필요(본인) 신청하기" (online application inside Government24). Government24 login options: 정부 통합로그인(Any-ID), 모바일 신분증, 간편인증, 공동인증서, 금융인증서 (see KOR_portal). Online payment of the reissue fee is not stated on the pages viewed.

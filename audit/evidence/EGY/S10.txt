@@ -1,0 +1,10 @@
+Evidence ID: EGY_S10
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs:
+https://digital.gov.eg/gov-services/التعليم-والجامعات/02/تسجيل-الرغبات-للتعليم-العالي
+Links out to https://tansik.egypt.gov.eg/application/main.aspx?Certificate=1 (Chrome: page did not load / timed out, 2026-11-22)
+https://tansik.digital.gov.eg/ (Chrome: did not load / timed out, 2026-11-22). Latest Wayback capture of tansik.egypt.gov.eg is 2022-07-16 (not used).
+Excerpt (portal): تسجيل الرغبات - الخدمة مقدمة من خدمات التعليم العالى، خدمات تنسيق الثانوية العامة - التوجه للموقع الموفر للخدمة. Related: نتائج التنسيق.
+Portal education group also lists: الاستعلام عن ارقام الجلوس ; سداد الرسوم أونلاين.

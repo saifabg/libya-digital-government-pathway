@@ -1,0 +1,11 @@
+Evidence ID: SAU_S03
+Service: Passport renewal
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi3Q0NHT2M3A183N2DjAwCnR0Njc0dnQwtDE31C7IdFQFs-AMP/?page=absher.userguide.service.contents&pswid=Z7_11D8H2G0L8KRD0QCP61THH3871&urile=wcm%3Apath%3A%2Fcontents%2Findividuals%2Feservices+user+guide%2Feservices%2Fpassport-services%2Fpassprts_service2
+- https://www.absher.sa/wps/wcm/connect/individuals/contents/individuals+AR/FAQs_AR
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[Renewing the Saudi passport - Card] This service allows Saudi citizens to easily renew their Saudi passports electronically without the need to visit passport offices. This can be done through simple and quick steps after submitting the application and completing the procedures via the Absher platform. / •Providing fingerprint and photo of the citizen in the Ministry of Interior's systems. / •Presence of the beneficiary inside the Kingdom of Saudi Arabia. / •The beneficiary must have a valid passport. / •The photo registered in the Ministry of Interior's systems will be the one used in the issued passport. / Service Language / Arabic / English / Geographical Location / You can contact the nearest General Directorate of Passports office during working hours from 8 AM to 2 PM or reach them via the number (911). / Service channels / Absher Platform and Application / Service Cost / 300 SR for 5 years for each passport. / Duration / Immediate
+[Absher FAQ, Arabic] "سداد رسوم إصدار الجواز حسب المدة المختارة من خلال الحساب البنكي" / كيف يتم توصيل جواز السفر بعد التجديد من خلال منصة أبشر؟ "1- إحضار نموذج إشعار التجديد للجواز من حسابك في منصة أبشر والجواز القديم وتسليمه لموظف البريد" ... "3- سداد رسوم التوصيل" "4- سيتم ارسال الجواز المجدد مع الجواز القديم إلى عنوانك الوطني" / "الدخول إلى منصة أبشر باستخدام هويتك الرقمية (حسابك في أبشر)"

@@ -1,0 +1,14 @@
+Evidence ID: KOR_S04
+Service: Family relation / marriage certificate (가족관계등록부 등의 증명서 발급)
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=97400000004 (Government24 guide; last changed 2024-07-12)
+- https://efamily.scourt.go.kr/index.jsp (issuing site: 증명서 발급 menu incl. 가족관계증명서, 혼인관계증명서, 영문증명서; 무인증명서발급기 위치)
+- https://efamily.scourt.go.kr/cs/CsBltnWrtList.do (FAQ on electronic certificates)
+
+Excerpt:
+"신청방법 인터넷 , 방문 , 무인발급기 ... 처리기간 즉시 ... 수수료 증명서 1통당 1,000원 / 인터넷으로 발급받을 때는 무료임"
+"가족관계증명서, 기본증명서, 혼인관계증명서, 입양관계증명서, 친양자입양관계증명서가 있으며 ... ※ 대법원 전자가족관계등록시스템(efamily.scourt.go.kr)에서 발급받을 수 있습니다."
+"민원인이 제출해야하는 서류 신분증 지참"
+efamily FAQ: "전자증명서는 어떻게 발급받을 수 있나요?", "발급받은 전자증명서는 핸드폰에 저장되는 건가요?"; notices: "금융인증서 IE11(인터넷 익스플로러) 지원 종료 안내"; menu "인증서 가져오기/내보내기".
+[Gloss: issue online, in person or at unmanned kiosks; immediate; 1,000 won per copy at counters, free online; issued from the Supreme Court system; only ID presentation at the counter; electronic certificates available; certificate-based login inferred from certificate notices (login not observed).]

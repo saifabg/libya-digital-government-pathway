@@ -1,0 +1,14 @@
+Evidence ID: EGY_S02
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs:
+https://digital.gov.eg/categories/terms/بدل-فاقد-بطاقة-الرقم-القومي
+https://digital.gov.eg/categories/terms/بدل-تالف-بطاقة-الرقم-القومي
+Excerpt:
+وصف الخدمة: تُمكّنك هذه الخدمة من إصدار بدل فاقد لبطاقة الرقم القومي الخاصة بك من مكانك وتوصيلها إلى عنوانك.
+شروط و أحكام الخدمة - أوافق على الشروط والأحكام طبقًا للوظيفة المختارة
+تسجيل الدخول
+المستندات المطلوبة - لا يوجد
+Civil-status tab of the portal lists only two ID services: بدل تالف بطاقة الرقم القومي ; بدل فاقد بطاقة الرقم القومي (no first issue or ordinary renewal).
+Agency site https://cso.moi.gov.eg/ : ERR_CONNECTION_TIMED_OUT in Chrome on 2026-11-22.

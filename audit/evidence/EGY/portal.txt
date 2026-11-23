@@ -1,0 +1,15 @@
+Evidence ID: EGY_portal
+Country: Egypt (EGY)
+Access date: 2026-11-22
+Coder: AI-A
+URLs:
+https://digital.gov.eg/ ; https://digital.gov.eg/categories ; https://digital.gov.eg/faqs ; https://digital.gov.eg/about-us ; https://digital.gov.eg/privacy-policy ; https://digital.gov.eg/feedback ; https://digital.gov.eg/government-reference
+Wayback: http://web.archive.org/cdx/search/cdx?url=digital.gov.eg&limit=3 -> earliest 20191113064917 https://digital.gov.eg/ 200 ; capture 20211117020241
+Excerpts:
+Home: تطبيق الهوية الرقمية متاح الآن. حمّله وأنشئ هويتك الرقمية للوصول إلى الخدمات الإلكترونية بكل سهولة / أى خدمة؟ ... ابحث
+About: ... تحميل التطبيق باسم الخدمات الرقمية ... وتسجيل الدخول باستخدام رقمك القومى ورقم المحمول، والذى يجب أن يكون مسجلًا باسمك
+FAQ: ٢-تحديث منصة التحقق من الهوية الرقمية التي ستصبح المنصة الموحدة للدولة المصرية والتي ستُستخدم عبر جميع المنصات الإلكترونية في الدولة. / يتم توفير إمكانية الحصول على الخدمات عبر الموقع الإلكتروني أو التطبيق الذكي أو زيارة مراكز وفروع الخدمة أو الاتصال بمركز المساعدة / تحب نساعدك إزاي؟ ١٥٩٩٩
+Privacy: سياسة الخصوصية - لقد تم إعداد هذه السياسة لمساعدتكم فى تفهم طبيعة البيانات التى نقوم بتجميعها منكم ...
+Footer/menu: الاسئلة الشائعة ; الشكاوى و المقترحات ; سياسة الخصوصية ; عن مصر الرقمية (no accessibility statement, no open-data link, no English version found).
+Coder count (not stated by portal): 167 unique service cards across 30 groups on /categories, incl. some 'تأتيكم قريبا'.
+Nov 2021 capture (rendered): 'تشغيل تجريبى' banner; groups السجل التجارى، المحاكم، الضرائب العقارية، خدمات القضايا، التأمين الإجتماعى، الأحوال المدنية، التموين، التوثيق، مركباتى، الشهر العقارى، رخصى; no service count stated.

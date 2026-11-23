@@ -1,0 +1,12 @@
+Evidence ID: TUN_S11
+Service: Social-assistance benefit (Amen social programme, needy families allowance)
+Access date: 2026-11-22
+URLs:
+- https://www.social.gov.tn/ar/منحة-العائلات-المعوزة (Ministry of Social Affairs)
+- https://www.social.gov.tn/en/social-grants-needy-families
+- https://khadamet.gov.tn/أرغب-في-الحصول-على-مساعدة-إجتماعية/
+Excerpts (verbatim):
+"منحة العائلات المعوزة ... الخدمة غير متوفرة عن بعد ... هي مساعدة اجتماعية موجهة للأشخاص أو الأسر الفقيرة أو ذات الدخل المحدود وتكون في شكل منحة مالية تُصرف كل شهر بقيمة 200 دينار ... الوثائق الضرورية: مطلب ترشح للإنتفاع ببرنامج الأمان الإجتماعي مملوء / مضمون ولادة لكل فرد من أفراد الاسرة / نسخة من بطاقة التعريف الوطنية لكل فرد من أفراد الاسرة الذين تجاوزا 18 سنة ... تسلم الوحدة المحلية للنهوض الاجتماعي لمطلب الانتفاع بالبرنامج وتسجيله ... القرار النهائي لإسناد الخدمة عن طريق اللجنة الجهوية / الاتصال بالمترشح واعلامه بالقرار عبر المراسلة"
+[EN] "Social Grants for needy families ... The online service is unavailable"
+[khadamet life event lists only] "الاطلاع على الـمنح العائلية"
+Notes: Information only; the application is made at the local social promotion unit. Not on khadamet. Processing time and fee (or free) not stated.

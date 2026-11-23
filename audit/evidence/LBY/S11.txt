@@ -1,0 +1,16 @@
+Evidence ID: LBY_S11
+Service: Social-assistance benefit (Social Solidarity Fund basic pension; coded on the elderly category, procedure 67; 10 category variants 67-77)
+Access date: 2026-11-22
+URLs:
+- https://ejraat.gov.ly/procedure/67?l=ar (and ?l=en) ; ejraat API used by the page: https://ejraat.gov.ly/api/procedure/67/(blocksteps|requirements|costs|timeframe|institutions)?l=ar|en
+- https://mch.services.mosa.ly (Ministry of Social Affairs children's grant inquiry, linked from the ejraat e-services menu)
+- https://ssf.gov.ly (Social Security Fund, Benghazi)
+Verbatim excerpts (ejraat procedure 67, ar rendering):
+"الهيئة العامة لصندوق التضامن الاجتماعي > المعاشات الاساسية > المعاش الاساسي لفئة الشيخوخة"
+Steps (5, all "IsOnline": false): "الحصول على المعاش الاساسي لفئة الشيخوخة؛ الحصول على شهادة الاقامة؛ البحث الاجتماعي؛ فتح حساب مصرفي؛ الحصول على المعاش الاساسي"
+"المؤسسات المعنية2 الهيئة العامة لصندوق التضامن الاجتماعي (x 3) ... اي مصرف تجاري"
+"الوثائق المطلوبة7 إفادة بالرقم الوطني؛ نمودج طلب معاش اساسي؛ اعتماد نمودج طلب معاش اساسي؛ شهادة الاقامة؛ بطاقة شخصية أو جواز السفر؛ رسالة فتح حساب مصرفي ...؛ قسيمة الإيداع"
+"الكلفة مجانا" ; "المدة الزمنية الاجمالية50 دقيقة - 1 ساعة 55 دقيقة"
+English title: "THE BASIC PENSION FOR THE ELDERLY CATEGORY"; English step: "Obtaining the basic pension form for the elderly"
+[mch.services.mosa.ly] "مشروع منحة الزوجة والاولاد - منحة الاولاد الإستعلام عن منحة الاولاد تسجيل الدخول الرقم الوطني * رقم القيد * رقم الهاتف *" (inquiry only, login)
+[ssf.gov.ly] "الموقع الرسمي | صندوق الضمان الإجتماعي -ليبيا ... كيفية التسجيل بالصندوق ... المعاشات والمنافع" (information; mentions "الحكومة الليبية", Benghazi)

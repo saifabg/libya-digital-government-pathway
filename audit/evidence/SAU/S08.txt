@@ -1,0 +1,11 @@
+Evidence ID: SAU_S08
+Service: Electricity bill payment
+Access date: 2026-11-22
+Coder: AI-A
+URL(s):
+- https://www.se.com.sa/en/Ourservices/ColumnC/Alkahraba-App/Alkahraba-App/
+- https://www.se.com.sa/ar-SA/Ourservices/ColumnC/Alkahraba-App/Alkahraba-App/
+- https://www.se.com.sa/en/GuestViewBill/ (blank page)
+
+Excerpt (verbatim official text; '/' marks line breaks):
+[Saudi Energy App] Best Features Of Our App / Account Management / The app provides an identity-level overview of all your accounts, requests, total dues, and detailed information for each service. / Support and Live Chat / This feature connects you directly with the customer service team 24 hours a day. ... / Pay Your Bills / Through the app, you can: / View detailed bills for all accounts, with an easy summary view. / Pay using Mada, credit cards, or Apple Pay. / ... How can I download Saudi Energy app? / You can download Saudi Energy app on iOS and Android devices through the App stores or through the link.

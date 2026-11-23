@@ -1,0 +1,16 @@
+Evidence ID: LBY_S07
+Service: Corporate income tax filing and payment
+Access date: 2026-11-22
+URLs:
+- https://ejraat.gov.ly/procedure/27?l=en (and ?l=ar)
+- ejraat API used by the page: https://ejraat.gov.ly/api/procedure/27/(blocksteps|requirements|costs|timeframe|institutions)?l=ar|en
+- https://tax.gov.ly (Tax Authority); https://tax.gov.ly/Law3.aspx (forms); https://tax.gov.ly/Login.aspx
+Verbatim excerpts (ejraat procedure 27, "Pay tax > Pay income and stamp tax > Pay corporate income tax"):
+Steps (7, all "IsOnline": false): "Submit tax file; Pay balance sheet stamp tax; Buy tax return stamp; Submit tax return; ..." (ar: "الحصول على جدولة الربط الضريبي (المبدئي)"; "طلب دفع الضريبة المستحقة"; "الحصول على إيصال سداد الضريبة")
+Institution: "Tripoli tax administration"
+Required documents: "Corporate income tax form; Company balance sheet; legal auditing accountant report; Balance sheet stamp tax receipt; Legal auditing accountant report certified; Corporate income tax form with stamp; Scheduled tax assessment form; Tax return documents receipt"
+Costs: "100.5 LYD قمية ضريبة الدمغة على الميزانية"; "10 LYD قيمة طوابع الدمغة لنموذج الإقرار الضريبي"; "20% ضريبة الدخل"; "4% ضريبة الجهاد"
+Time (API): Days Min 0.19, Max 0.38
+[tax.gov.ly menu] "استفسار عن ايصال / استفسار عن شهادة سداد ضريبي / استفسار عن ملصق ... نماذج وإقرارات ضريبية" ; forms page: "عرض النمودج نموذج رقم 01 ... نموذج رقم 9 ..." ; Login.aspx: "الدخـول للوحة التحكم الاسم * كلمة المرور *" (control panel)
+[tax.gov.ly, strategy text] "بوابــة الضــرائب اﻹلكترونيــة هــي عبــارة عــن منصــة رقميــة متكاملــة ﻹدارة المعــامﻼت الضــريبية" (its "read more" link is "#"; no taxpayer e-filing entry point found)
+Integrity note: the tax.gov.ly homepage HTML contains dozens of injected links to unrelated gambling/SEO sites - site appears compromised. Footer "© 2022".

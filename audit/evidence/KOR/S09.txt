@@ -1,0 +1,16 @@
+Evidence ID: KOR_S09
+Service: Periodic vehicle inspection (자동차 종합검사/정기검사), coded as the recurring vehicle obligation; Korea has no periodic registration renewal
+Access date: 2026-11-22
+URLs:
+- https://www.gov.kr/portal/service/serviceInfo/PTR000050201 (Government24 page; 소관기관 한국교통안전공단)
+- https://www.cyberts.kr (TS cyber inspection centre, booking; not opened)
+
+Excerpt:
+"○ 검사 개요 : 대상 지역에 등록된 일정 차령이 지난 모든 자동차는 일정 기간마다 정기적으로 종합 검사를 실시"
+"(공단검사소는 [20]년 1월부터 예약제를 운영 중이며, 예약 후 방문하시기 바랍니다.)"
+"○ 한국교통안전공단 사이버검사소 홈페이지 방문 후 자동차 등록번호 및 휴대폰 번호 등 개인정보를 이용하여 회원가입 없이 자동차 검사 인터넷 예약을 하실 수 있습니다."
+"- 본 예약 서비스는 결제를 완료(신용카드 또는 무통장입금(하여야 예약이 완료됩니다."
+"인터넷 예약이 안 되는 경우 아래 전화로 연락 주시면 예약을 도와드리겠습니다. - 문의 : 1577-0990"
+"○ 정기검사 - 자동차등록증(신청서 없음) - 책임보험 가입증명서(검사를 받는 당일까지 유효한 증명서)"
+[Gloss: periodic inspection required; book online without membership using plate and phone number; booking completed by card or bank-transfer payment; phone help 1577-0990; vehicle registration certificate and insurance certificate required; the inspection itself is in person.]
+Fee and processing time are not stated on this page.

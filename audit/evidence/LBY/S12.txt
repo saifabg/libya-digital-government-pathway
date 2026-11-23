@@ -1,0 +1,8 @@
+Evidence ID: LBY_S12
+Service: Building permit (coded for Tripoli)
+Access date: 2026-11-22
+URLs:
+- https://tripoli.gov.ly and https://www.tripoli.gov.ly (Tripoli municipality)
+- https://ejraat.gov.ly/procedures?l=ar (no building-permit procedure)
+Verbatim excerpt (tripoli.gov.ly, full page text): "الموقع تحت الصيانه حاليا"
+Observation: no official site of the Urban Planning Authority (مصلحة التخطيط العمراني) found; building-permit rules (Decision 225/2018) found only on a private legal database (lawsociety.ly), not evidence.

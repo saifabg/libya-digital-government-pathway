@@ -1,0 +1,13 @@
+Evidence ID: TUN_S05
+Service: Company registration
+Access date: 2026-11-22
+URLs:
+- https://www.registre-entreprises.tn/rne-public/#/demande-immatriculation-landing (RNE, Presidency of the Government; rendered in Chrome)
+- https://home.registre-entreprises.tn/formalites/ (checklist table)
+Excerpts (verbatim):
+"Bienvenue dans la plateforme RNE d'IMMATRICULATION EN LIGNE / مرحبا بكم على المنصة الالكترونية للتسجيل عن بعد بالسجل الوطني للمؤسسات
+100% électronique ... Totalement électronique sans se déplacer aux guichets: Cela suppose que l'utilisateur dispose d'un certificat DIGIGO et d'un moyen de paiement électronique. L'utilisateur bénéficiera d'une réduction de 50% des frais d'immatriculation et d'un traitement du dossier dans les 24h.
+Semi électronique ... l'utilisateur n'ayant pas un certificat DIGIGO et/ou un moyen de paiement électronique devrait introduire les données ainsi que télécharger les documents. Il va recevoir un récépissé provisoire pour une durée de 15 jours ... il devrait se présenter à n'importe quel guichet RNE pour compléter la procédure ... Le dossier sera traité dans les 48h"
+[Formalités checklist] "RNE C 004 | Société anonyme | Personne Morale | Création | cinquante dinars (50 TND) | Trente jours à compter de la date de la déclaration de souscription et de versement"
+[header] "Help Desk 70 248 170"
+Notes: DIGIGO is the TunTrust national electronic-signature certificate (coded as national digital identity). Required documents are in PDF checklists that could not be read in the browser, so C4 is blank. RNE is not listed on khadamet (commerce and economy sections). Pages are bilingual Arabic/French; no English.

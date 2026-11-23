@@ -1,0 +1,10 @@
+EGY S05 Company registration (incorporation) - Egypt
+Accessed 2026-11-22
+Source 1: https://gafi.gov.eg/en/contenttemplate/ca1b9d8b-76d1-46dc-a677-eb4ba5ccaae3 (GAFI, "Electronic Incorporation Services")
+Extract: "In September 2023, GAFI launched its Company e-Incorporation Service via a dedicated digital portal. In its first phase, incorporation of specific company types, including sole proprietorships, limited and general partnerships, and limited liability companies under ... Investment Law No. 72 of 2017, is now conducted exclusively online."
+Steps: Register or Create a New Account on GAFI e-Services Portal; select legal structure...; Complete company data, upload required documents, submit the application for review, and track its status online; "Pay all incorporation fees in one transaction using a credit card."; "Sign the Articles and Memorandum of Association electronically through the portal."; "Sign the notarization record electronically, as issued by the Real Estate Registration Office."; "GAFI completes the remaining incorporation procedures on behalf of the client and delivers final documents via the Investor Service Center or Egypt Post."
+Source 2: https://portal.gafi.gov.eg/services/eServices/departmentService?DSID=4 (GAFI e-services portal, LLC)
+المستندات المطلوبة: 1- استصدار شهادة عدم التباس الاسم التجارى للشركة; 2- صورة توكيلات مميكنة من جميع الشركاء ...; 4- صور إثبات الشخصية (سارية واضحة) للمؤسسين أو الشركاء: رقم قومي للمصريين، جوازات السفر للأجانب; 5- أصل مستخرج رسمي من سجل المحاسبين والمراجعين...; 6- صورة من كارنيه القيد في نقابة المحامين ...; 9- صور إثبات الشخصية للوكيل ...
+قنوات تقديم الخدمة: "البوابة الاكترونية فقط"
+Source 3: https://portal.gafi.gov.eg/auth/register - new-user form: اسم المستخدم، كلمة المرور، الرقم القومى/رقم جواز السفر، البريد الإلكتروني، رقم المحمول (portal-specific account).
+Source 4: National portal https://digital.gov.eg - search shows "طلب حجز اسم تجاري (شهادة عدم التباس)" and commercial-registry services incl. "طلب قيد أفراد"; no GAFI company-incorporation service or link found under الشركات و المنشئآت.

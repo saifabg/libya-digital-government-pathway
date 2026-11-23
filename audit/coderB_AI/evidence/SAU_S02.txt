@@ -1,0 +1,9 @@
+SAU S02 National ID card renewal - Saudi Arabia
+Accessed 2026-11-23
+Source 1: Absher (MOI) static service page https://www.absher.sa/wps/portal/individuals/static/id-renewal/ ("خدمة تجديد الهوية الوطنية")
+Extract: "الهدف من الخدمة: تتيح هذه الخدمة للمواطنين والمواطنات تجديد الهوية الوطنية إلكترونيًا باستخدام أحدث تقنيات التعرف على الوجه، مع طلب توصيل الوثيقة إلى عنوان المستفيد المسجل دون الحاجة لمراجعة مكاتب الأحوال المدنية"
+شروط الخدمة: لايمكن للمستفيد إجراء طلب في ظل وجود طلب قائم; تتاح هذه الخدمة عندما يتبقى على انتهاء الهوية الوطنية 180 يوما أو أقل; توفير صورة مطابقة للاشتراطات; عدم وجود غرامات غير مسددة ...; وجود عنوان مسجل للمستفيد; سداد أجور توصيل الهوية الوطنية الجديدة; تفعيل بطاقة الهوية الوطنية المجددة بعد استلامها ... (photo: JPEG, <=1 MB, 4x6)
+طريقة الوصول للخدمة: تسجيل الدخول إلى موقع منصة أبشر; خدماتي; الأحوال المدنية; خدمات الهوية الوطنية; تجديد الهوية الوطنية.
+Same page lists: "خدمة إيصال الهوية الوطنية للإصدار الأول: ... طلب إيصال وثيقة الهوية الوطنية المصدرة من مكاتب الأحوال المدنية"; "خدمة الإبلاغ عن الوثائق المفقودة: ... حجز موعد لإعادة الإصدار".
+Source 2: Absher "Registration and Subscription" page: "Subscription to Absher platform is available to all citizens, residents and visitors by registering and activating their accounts through activation channels (Bank accounts, Self-service Kiosks, Nafath app. or passport and civil affairs' offices)." ... "Steps to create a digital ID on Absher"; "How to activate the digital identity originating from Absher through Nafath app."
+Source 3: National portal my.gov.sa service page https://my.gov.sa/ar/services/143495 ("تجديد الهوية الوطنية") - direct access blocked (Cloudflare HTTP 403 for browser and WebFetch). Its existence and description (MOI service via Absher) seen only in the search-engine index of my.gov.sa.

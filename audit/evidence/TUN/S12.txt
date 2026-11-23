@@ -1,0 +1,14 @@
+Evidence ID: TUN_S12
+Service: Building permit (Municipality of Tunis)
+Access date: 2026-11-22
+URLs:
+- https://www.commune-tunis.gov.tn/ (live: TLS certificate expired; not bypassed)
+- http://web.archive.org/web/20260611110128/http://www.permisconstruire.tn/AR/info_gen.jsp (Tunis municipality permit site, archived)
+- http://web.archive.org/web/20260721020301/http://www.permisconstruire.tn/
+- https://taamir.tn/ (national Taamir platform: connection timed out / reset)
+- https://khadamet.gov.tn/أبني-بيتاً/
+Excerpts (verbatim):
+[permisconstruire.tn] "Suivi de l'autorisation de construire ... Vous pouvez maintenant suivre vos autorisations de construire ... CONNEXION"
+[AR] "مراحل إسناد وتسليم رخصة البناء: قبول ملفّ رخصة البناء لدى قسم رخص البناء بالدّائرة البلديّة مرجع النّظر لعموم المواطنين وبمكتب المخاطب الوحيد لرخص البناء الخاصّ بالمستثمرين ... إعلام صاحب الطّلب بالمعاليم المطلوب دفعها قبل تسليمه رخصة البناء / تسليم قرار رخصة البناء مصحوبا بالأمثلة المصادق عليها، بعد خلاص معاليم التّرخيص"
+[khadamet] "أبني بيتاً ... لا توجد خدمات متاحة في هذا القسم"
+Notes: Official evidence shows in-person filing with online tracking only (C1=1; C11 is forced to NA although tracking exists). Press reports (Radio Nationale and others) say Tunis began using Taamir for online filing and tracking on 14 Sep 2026 while keeping the paper procedure; this could not be checked on an official page. The document list (piece.jsp) could not be retrieved.

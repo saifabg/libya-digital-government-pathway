@@ -1,0 +1,15 @@
+Evidence ID: ZAF_S05
+Country: South Africa (ZAF)
+Coder: AI-A
+Access date: 2026-11-22
+URLs:
+https://www.cipc.co.za/?page_id=149
+https://www.cipc.co.za//wp-content/uploads/2021/03/NEW-E-SERVICES-COMPANY-REGISTRATION-STEP-BY-STEP-GUIDE-V3.3.pdf
+https://www.gov.za/services/online-services
+https://bizportal.gov.za (certificate error SEC_E_CERT_EXPIRED, not bypassed)
+
+Excerpt (verbatim, official sources):
+[CIPC Enterprise registration] "A company registration may vary between R125 and R475 (R125 for a private company ...)". Platforms: "New E-services ... BizPortal ... CIPC Mobile App; Self Service Terminal; Banks (as part of company registration process)". Turnaround: "E-services: 1 working day; Mobile App, Self Service Centre, Bank, BizPortal immediately (service is dependent on payment being made immediately)". E-services list: "COMPANY REGISTRATION ... TRANSACTION STATUS ... CERTIFICATES".
+[CIPC guide V3.3] "the only payment option is via credit or debit card." "No supporting documents need to be send via email to CIPC unless one of the directors and/or incorporators are foreign nationals." "Registration certificate of the new company as well as the Memorandum of Incorporation ... is available for download." "Verification is done via the Department of Home Affairs." "Complete your Username (e-mail address and Password." "Call Centre: 086 100 2472".
+[gov.za Online services] "Register as a CIPC customer in order to: register a company ... track transaction status" (link to eservices.cipc.co.za).
+Conflict: same CIPC page also says "To register for a new company at the cost of R175.00".

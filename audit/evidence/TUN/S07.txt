@@ -1,0 +1,13 @@
+Evidence ID: TUN_S07
+Service: Income / corporate tax filing and payment
+Access date: 2026-11-22
+URLs:
+- https://khadamet.gov.tn/المالية/ (national portal, service "التصريح ودفع الأداء عن بعد")
+- https://www.finances.gov.tn/ar/e-services (Ministry of Finance)
+- https://jibaya.tn/ (HTTP 403 "Access Denied ... AntiBot Global Firewall"; not bypassed)
+- https://teledeclaration.finances.gov.tn and https://teledecgo.finances.gov.tn (not reached)
+Excerpts (verbatim):
+[khadamet] "التصريح ودفع الأداء عن بعد / شروط الإنتفاع بالخدمة: الإنخراط بصفة وجوبية أو إختيارية في منظومة التصريح ودفع الأداء عن بعد / الوثائق المطلوبة: لايوجد / مراحل الخدمة: إيداع التصريح والمصادقة على عملتي التصريح والخلاص / الأطراف المتدخلة: الإدارة العامة للأداءات - مركز الإعلامية لوزارة المالية / الأجال: بصفة حينية / مكان إيداع الملف: موقع جباية ... أجل الحصول على الخدمة: في الحين"
+[khadamet] "احتساب الأداءات عن بعد والدفع بقباضة المالية"
+[finances.gov.tn] "منظومة التصريح ودفع الأداء عن بعد (شهادة DIGIGO) / منظومة التصريح ودفع الأداء عن بعد (شهادة على مفتاح USB)"
+Notes: Filing and payment are fully online for subscribers; login is by DIGIGO or USB-key certificate (coded 2). The alternative is to compute online and pay at the tax collection office (C9). jibaya.tn is blocked by a bot firewall.

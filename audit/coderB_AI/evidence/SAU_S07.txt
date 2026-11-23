@@ -1,0 +1,12 @@
+SAU S07 Corporate income tax / zakat return filing and payment - Saudi Arabia
+Accessed 2026-11-23
+Source 1: ZATCA https://zatca.gov.sa/en/eServices/Pages/eServices-032.aspx ("Submit Corporate Income Tax (CIT) Return")
+Extract: "This e-service allows you to file all related income tax returns for a specified period of time (including transaction pricing documents). Your tax return will be available to be filed on time at ZATCA portal."
+Steps: Log into the ZATCA website; Select 'Returns'; Choose the return you want to submit; Fill in the return with your entity's financial data and submit it; You will receive a notification of the invoice amount via SMS and email.
+Required Documents: "No Documents". Target Audience: All registered taxpayers for CIT. Service Duration: 5 Minutes. Service Cost: No Fees.
+Service Channels (page markup): website = Yes; call center = No; branch = No; mobile app = No; relationship managers = No.
+Payment Channels: SADAD = Yes; mada = Yes; Visa = Yes.
+"Start now" -> https://login.zatca.gov.sa/irj/portal?...eTile=1006
+Source 2: ZATCA login page https://login.zatca.gov.sa/irj/portal (public landing): "TIN or Email / Password ... Or Login Via: For Citizens/ Resident Individuals, Login through Nafath"
+Source 3 (search results on zatca.gov.sa): eServices-081 "Print Zakat Certificate Instantly" - certificate issued automatically in the portal after filing and payment; eservices-013 CIT payment via SADAD invoice / e-banking / mada.
+Source 4: National portal my.gov.sa (services/21731 "تقديم إقرار الزكاة للمنشآت", directory s9107 "تقديم إقرار ضريبة الدخل") - blocked (Cloudflare 403); search index shows listings pointing to the ZATCA e-portal.

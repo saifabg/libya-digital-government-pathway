@@ -1,0 +1,13 @@
+Evidence ID: TUN_S06
+Service: Commercial / business activity licence
+Access date: 2026-11-22
+URLs:
+- https://www.commune-tunis.gov.tn/demarches-formalites_AR.aspx (live: TLS certificate expired, SEC_E_CERT_EXPIRED; not bypassed)
+- http://web.archive.org/web/20260809223433/https://www.commune-tunis.gov.tn/demarches-formalites_AR.aspx (archived copy used)
+- https://services.interieur.gov.tn/ (Interior cahiers des charges, e.g. pdf/6.pdf for cafés)
+- https://khadamet.gov.tn/التجارة-وتنمية-الصادرات/
+Excerpts (verbatim):
+[Tunis municipality] "كراس الشروط لبعض الأنشطة / ملاءمة المحلات / القرار / كراس الشروط المتعلق بضبط الشروط العامة لصلوحية المحلات / كراس الشروط المتعلق بإستغلال المحلات المفتوحة للعموم في بعض المحاور الرئيسية والأحياء الجديدة ... شروط حفظ الصحة المتعلقة بالمقاهي ... شروط حفظ الصحة المتعلقة بالمطاعم"
+[Interior] "كراسات الشروط: كراس الشروط المتعلق بإسغلال المقاهي من الصنف الأول ..."
+[khadamet commerce section] "لا توجد خدمات متاحة في هذا القسم"
+Notes: Coded for the capital (Tunis). Most activities in Tunisia operate under cahiers des charges (declaration) rather than a single licence; only downloadable PDFs were observed (C1=1). PDFs not opened, so documents, time and fee were not determined. The Tunis site has an English services page (services_En.aspx), not checked for this content.
